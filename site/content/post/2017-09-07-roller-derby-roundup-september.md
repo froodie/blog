@@ -10,8 +10,13 @@ excerpt: >-
   success in D2 Playoffs.
 type: post
 url: /roller-derby-roundup-september/
+tags:
+- Roller Derby Roundup
+- Irish Roller Derby News
 ---
-<img class="size-full wp-image-2709 alignright" src="/img/blog/2017/09/Roller-Derby-Roundup-Header-Sept17.png" alt="" width="560" height="315" srcset="/img/blog/2017/09/Roller-Derby-Roundup-Header-Sept17.png 560w, /img/blog/2017/09/Roller-Derby-Roundup-Header-Sept17-300x169.png 300w" sizes="(max-width: 560px) 100vw, 560px" style="display: block"/> It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
+![Roller Derby Roundup September](/img/blog/2017/09/Roller-Derby-Roundup-Header-Sept17.png)
+
+It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
 
 ## In this edition
 
@@ -41,22 +46,7 @@ The third day of the tournament didn’t go Dublin’s way, as they lost to pals
 
 {{< tweet 900431943287926785 >}}
 
-<blockquote class="twitter-tweet" data-lang="en">
-<p dir="ltr" lang="en">
-**If WFTDA leagues were GOT houses**
-</p>
 
-<p>
-Gotham = Targaryen<br /> Rose = Tyrell<br /> Denver = Stark<br /> BAD = Martell<br /> Dublin = just Lyanna effin Mormont
-</p>
-
-<p>
-— Anna (@annachronous) <a href="https://twitter.com/annachronous/status/900431943287926785">August 23, 2017</a>
-</p>
-</blockquote>
-
-</p>
-</blockquote>
 
 [This awesome article from the Apex captures the tone and excitement better than I ever could](https://thederbyapex.com/dublin-shock-the-derby-world-on-day-1-of-d2-playoffs-in-pittsburgh-c6f6eabf186f)
 
@@ -72,7 +62,7 @@ Big ups to Miss Fury and Riff Reff of DRD as well as Jean Quad Grand Slam who ar
 
 ### 23rd September:
 
-https://www.facebook.com/events/511420612540747/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A167635069985709%2C%22action_history%22%3A\[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A167635069985709%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D\]%2C%22has_source%22%3Atrue%7D
+**[Return of the FireQueens](https://www.facebook.com/events/511420612540747/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A167635069985709%2C%22action_history%22%3A\[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A167635069985709%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D\]%2C%22has_source%22%3Atrue%7D)**
 
 East Coast Cyclones take on a mixed team of Waterford Viqueens and Cork Firebirds (the FireQueens are BACK, woohoo!) in Shoreline Leisure Centre, Greystones. There might even be some more fun later on, but I don’t have final details as of yet.
 
@@ -82,13 +72,13 @@ East Coast Cyclones take on a mixed team of Waterford Viqueens and Cork Firebird
 
 ### 23rd September:
 
-https://www.facebook.com/events/163951164178697/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D
+**[Dublin Roller Derby](https://www.facebook.com/events/163951164178697/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D)**
 
 Dublin Roller Derby C play Aul Reekie Roller Girls All-Star Rookies in Edinburgh
 
 ### Also 23rd September
 
-https://www.facebook.com/events/458532847873149/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D
+**[All-Ireland Roller Derby](https://www.facebook.com/events/458532847873149/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D)**
 
 All-Ireland Roller Derby are off to Lille and will be playing France and Belgium as the road to the World Cup continues
 
@@ -98,13 +88,13 @@ All-Ireland Roller Derby are off to Lille and will be playing France and Belgium
 
 ### September 12th:
 
-https://www.facebook.com/events/1446183958797442/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A195860460527562%2C%22action_history%22%3A\[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A195860460527562%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D\]%2C%22has_source%22%3Atrue%7D
+**[Belfast Roller Derby](https://www.facebook.com/events/1446183958797442/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A195860460527562%2C%22action_history%22%3A\[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A195860460527562%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D\]%2C%22has_source%22%3Atrue%7D)**
 
 Belfast Roller Derby is holding a Marvel vs DC table quiz in Lavery’s Mister Tom’s Lounge from 7pm
 
 ### September 15th
 
-https://www.facebook.com/events/1973476102941670/?acontext=%7B%22action_history%22%3A%22null%22%7D
+**[Dublin Roller Derby](https://www.facebook.com/events/1973476102941670/?acontext=%7B%22action_history%22%3A%22null%22%7D)**
 
 [Dublin Parking Day](http://www.dublinparkingday.org/) – DRD will be taking part in this awesome worldwide initiative facilitated by Dublin City Council. [They will be doing fun Skatey things on their popup park on Dame Court.](https://www.facebook.com/events/1973476102941670/?acontext=%7B%22action_history%22%3A%22null%22%7D)
 
@@ -114,9 +104,9 @@ Culture Night is often a big one and gives local leagues a chance to show their 
 
 Let me know if you are organising something for Culture Night and I’ll add it here.
 
-https://www.facebook.com/events/1951657905105277/
+**[Belfast Roller Derby](https://www.facebook.com/events/1951657905105277/)**
 
-https://www.facebook.com/events/1389498304430983/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D
+**[Maiden City Flyers](https://www.facebook.com/events/1389498304430983/?acontext=%7B%22action_history%22%3A%22\[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A\[\]%7D\]%22%2C%22has_source%22%3Atrue%7D)**
 
 ---
 
