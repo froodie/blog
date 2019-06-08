@@ -2,7 +2,7 @@
 title: 'Moving to Static '
 date: 2019-06-08T17:37:46.153Z
 ---
-![hugo & netlify](/img/blog/hugonetlify.jpg){ width=50% }
+![hugo & netlify](/img/blog/hugonetlify.jpg)
 
 I don’t blog very often. Calling me a sporadic blogger would be overly generous. I’ve probably used Facebook for much of my longer-length bits and pieces over the past few years. On Thursday I’d a day off work and wrote a diatribe about the scourge of “like and share” scams on Facebook. I posted it to Facebook, where it got surprisingly little traction (maybe because I was being patronising, maybe because people only share nonsense on Facebook, not anything useful).
 
@@ -23,4 +23,5 @@ I spent a lot of time here getting used to using the command line again, playing
 I definitely was glad to have [Jonathan](https://crem.in/) around to help when I got stuck with anything - he was able to guide me through installing my first try at a theme and then help when I had some difficulties getting another version of the theme working instead. He also did some magic to make it easy for me to refresh the css any time I fancy a change (this bit hadn’t been working in the theme template that I ended up going for).
 
 I’ve still got some changes to make and probably things to tidy up with this new installation, but so far I’m very much enjoying playing with it and learning how it all works. You never know, I might even get around to adding some posts to this fourth version of having a personal blog (anyone remember Diaryland?)
+
 
