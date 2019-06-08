@@ -3,6 +3,7 @@ title: On being a Newbie Roller Derby Announcer
 author: Sarah
 type: post
 date: 2013-09-03T09:27:31+00:00
+excerpt:  <strong>Picture it.</strong> <em>You&#8217;re at the derby game. There are a couple of hundred punters in the audience, many of whom have never seen a bout before. You have a microphone.
 url: /on-being-a-newbie-roller-derby-announcer/
 featured_image: /wp-content/uploads/2013/07/mordor.jpg
 post_views_count:

@@ -3,7 +3,9 @@ title: I think I wanna marry you! (It’s not what you think…)
 author: Sarah
 type: post
 date: 2014-11-13T18:01:33+00:00
+excerpt: "Weddings &#8211; they&#8217;re definitely not like they used to be! In some ways, that's good."
 url: /i-think-i-wanna-marry-you-its-not-what-you-think/
+
 featured_image: /wp-content/uploads/2014/11/9694033389_f88fac803a_k-624x415.jpg
 post_views_count:
   - 2479
