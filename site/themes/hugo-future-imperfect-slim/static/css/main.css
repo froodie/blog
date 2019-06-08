@@ -1196,7 +1196,7 @@ div.grecaptcha-badge {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 1em 1em 0 1em; }
+  margin: 1em 4em 0 4em; }
   @media (min-width: 768px) {
     #social-share {
       justify-content: flex-start; } }
