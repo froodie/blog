@@ -1,6 +1,12 @@
 ---
 title: 'Moving to Static '
 date: 2019-06-08T17:37:46.153Z
+categories:
+  - Tech
+tags:
+  - programming
+  - blogging
+  - open source
 ---
 ![hugo & netlify](/img/blog/hugonetlify.jpg)
 
