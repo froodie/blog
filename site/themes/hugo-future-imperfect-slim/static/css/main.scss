@@ -1388,11 +1388,6 @@ textarea {
      margin: 3em 2em 0 2em;
      padding-top: 3em;
    }
-   > *:first-child {
-     @include for-desktop-up {
-       margin-top: 0;
-     }
-   }
  }
 
  #recent-posts {
