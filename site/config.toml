@@ -1,4 +1,4 @@
-baseurl                 = "http://niria.in/"
+baseurl                 = "https://niria.in/"
 DefaultContentLanguage  = "en"
 title                   = "niria.in"
 theme                   = "hugo-future-imperfect-slim"
