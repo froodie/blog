@@ -2,21 +2,15 @@
 title: Roller Derby Roundup – September
 author: Sarah
 type: post
-date: 2017-09-07T12:40:45+00:00
+date: 2017-09-07
 excerpt: "A quick look at what's going on in Irish Roller Derby this month from games to recruitment to fundraisers. Plus a spotlight on Dublin Roller Derby's recent success in D2 Playoffs."
 url: /roller-derby-roundup-september/
-featured_image: /wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17.png
-post_views_count:
-  - 1481
-tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"2709";s:11:"_thumb_type";s:5:"thumb";}'
 categories:
   - Roller Derby
-
 ---
 <img class="size-full wp-image-2709 alignright" src="http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17.png" alt="" width="560" height="315" srcset="http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17.png 560w, http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17-300x169.png 300w" sizes="(max-width: 560px) 100vw, 560px" />It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
 
-## In this edition:
+## In this edition
 
   * [Spotlight][1] on DRD&#8217;s D2 triumph
   * [Shoutouts to Officials on Tour][2]
@@ -60,13 +54,8 @@ The third day of the tournament didn&#8217;t go Dublin&#8217;s way, as they lost
 
 
 
-<blockquote class="twitter-tweet" data-lang="en">
-  <p dir="ltr" lang="en">
-    Dublin is having a weekend out of a sports movie. <a href="https://twitter.com/hashtag/talk2wftda?src=hash">#talk2wftda</a>
-  </p>
-  
-  <p>
-    — Joan Jettpack (@joan_jettpack) <a href="https://twitter.com/joan_jettpack/status/899083412182491136">August 20, 2017</a>
+
+ 
   </p>
 </blockquote>
 

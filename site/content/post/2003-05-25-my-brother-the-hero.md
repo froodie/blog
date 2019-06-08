@@ -1,7 +1,7 @@
 ---
 title: My Brother the Hero
 author: Sarah
-type: post
+type: draft
 date: 2003-05-25T14:52:00+00:00
 url: /my-brother-the-hero/
 lj_itemid:

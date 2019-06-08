@@ -1,30 +1,272 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Casper Theme"
-theme = "hugo-theme-casper"
-disqusShortname = "spf13"
-# Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
-# Define how many posts should appear on a site
-paginate = 10
-canonifyurls = true
+baseurl                 = "http://niria.in/"
+DefaultContentLanguage  = "en"
+title                   = "niria.in"
+theme                   = "hugo-future-imperfect-slim"
+preserveTaxonomyNames   = true
+paginate                = 3
+disqusShortname         = "niria-in"
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = [""]
 
 [params]
-  description = "this is my description"
-  cover = "images/cover.jpg"
-  author = "Sarah Ní Riain"
-  authorlocation = "Dublin, Ireland"
-  authorwebsite = "http://niria.in"
-  bio= "Bespectacled, not respectable."
-  logo = "images/logo.png"
-  googleAnalyticsUserID = "UA-79101-12"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "froodie"
-  twitterName = "froodie"
-  # facebookName = ""
-  # linkedinName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
-  hideHUGOSupport = false
-  [params.social]
-    twitter = "froodie"
+  # Loads CSS and JavaScript files. The variable is an array so that you can load
+  # multiple/additional files if necessary. The standard theme files can be loaded
+  # by adding the value, "default". Default includes the add-on.css and and-on.js.
+  # Example: ["default", "/path/to/file"]
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  # Sets options for highlight.js
+  highlightjs           = true
+  highlightjsTheme      = "github"
+  highlightjsLang       = ["html", "css", "js", "toml"]
+  # Sets where "View More Posts" links to
+  viewMorePostsLink     = "/post/"
+  # Activate Estimated Reading Times, which appear in the post headers
+  readingTime           = true
+  # Sets which Social Share links appear in posts.
+  # Options are twitter, facebook, reddit, linkedin, pinterest, email
+  socialShare           = ["froodie", "facebook", "reddit", "linkedin",
+                           "pinterest", "email"]
+
+  [params.meta]
+    # Sets the meta tag description
+    description         = "A sparsely-updated blog by a woman with bad taste in almost everything"
+    # Sets the meta tag author
+    author              = "Sarah Ní Riain"
+    # If you would like to add more comprehensive favicon support passed root
+    # directory favicon.ico, utlize this funtion. It is recommened to use
+    # https://realfavicongenerator.net to generate your icons as that is the basis
+    # for the theme's naming.
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+
+  [params.header]
+    # Sets the navbarTitle that appears in the top left of the navigation bar
+    navbarTitle         = "niria.in"
+    # Sets navbarTitle to match the section of the website
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
+
+  # These are optional params related to the sidebar. They are recommended, but not
+  # required for proper functionality. HTML is supported within the params.
+  [params.intro]
+    header                = "niria.in"
+    paragraph             = "A sparsely-updated blog by a crazy woman with bad taste in almost everything."
+    rssIntro              = true
+    socialIntro           = true
+
+    # This appears at the top of the sidebar above params.intro.header.
+    # A width of less than 100px is recommended from a design perspective.
+    [params.intro.pic]
+      src                 = "/img/main/logo.jpg"
+      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+      shape               = "circle"
+      width               = ""
+      alt                 = "Logo Goes Here"
+
+  [params.sidebar]
+    about               = "A hastily-written introduction to your host"
+    # Sets the number of recent posts to show in the sidebar. The default value is 5.
+    postAmount          = 5
+    # set to show or to hide categories in the sidebar
+    categories          = true
+    # Sets Categories to sort by number of posts instead of alphabetical
+    categoriesByCount   = true
+
+  [params.footer]
+    # Sets RSS icons to appear on the sidebar with the social media buttons
+    rssFooter           = true
+    # Sets Social Media icons to appear on the sidebar
+    socialFooter        = true
+
+  # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+  # due to its ease of use. Feel free to check out both and decide which you would
+  # prefer to use. See Staticman.yml for additional settings.
+  [params.staticman]
+    # Sets Statiman to be active
+    staticman           = false
+    # Sets the location for Staticman to connect to
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      recaptcha         = false
+      siteKey           = "" # Site Key
+      encryptedKey      = ""
+
+[menu]
+  # Sets the menu items in the navigation bar
+  # Identifier prepends a Font Awesome icon to the menu item
+  [[menu.main]]
+    name              = "Home"
+    url               = "/"
+    identifier        = "fas fa-home"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About"
+    url               = "/about/"
+    identifier        = "far fa-id-card"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Jobfairy"
+    url               = "/categories/jobfairyhq/"
+    identifier        = "far fa-newspaper"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Roller Derby"
+    url               = "/categories/roller-derby/"
+    identifier        = "fas fa-newspaper"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Categories"
+    url               = "/categories/"
+    identifier        = "fas fa-sitemap"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "Contact"
+    url               = "/contact/"
+    identifier        = "far fa-envelope"
+    weight            = 6
+
+[Languages]
+  # Each language has its own menu.
+  [Languages.en]
+    languageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
+
+  [Languages.fr]
+    languageCode        = "fr"
+    LanguageName        = "Français"
+    title               = "Hugo Future Imperfect Slim in fr"
+    description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
+    weight              = 2
+
+    [[Languages.fr.menu.main]]
+      name              = "Accueil"
+      url               = "/"
+      identifier        = "fas fa-home"
+      weight            = 1
+
+    [[Languages.fr.menu.main]]
+      name              = "About"
+      url               = "/about/"
+      identifier        = "far fa-id-card"
+      weight            = 2
+
+    [[Languages.fr.menu.main]]
+      name              = "Blog"
+      url               = "/blog/"
+      identifier        = "far fa-newspaper"
+      weight            = 3
+
+    [[Languages.fr.menu.main]]
+      name              = "Catégories"
+      url               = "/categories/"
+      identifier        = "fas fa-sitemap"
+      weight            = 5
+
+    [[Languages.fr.menu.main]]
+      name              = "Contact"
+      url               = "/contact/"
+      identifier        = "far fa-envelope"
+      weight            = 6
+
+  [Languages.pl]
+    languageCode        = "pl"
+    LanguageName        = "Polskie"
+    title               = "Hugo przyszłość niedoskonała"
+    description         = "Motyw HTML5 UP, przeniesiony przez Julio Pescadora i wzbogacony przez Patricka Collinsa. Wielojęzyczny przez StatnMap. Zasilany przez Hugo."
+    weight              = 2
+
+    [[Languages.pl.menu.main]]
+      name              = "Home"
+      url               = "/"
+      identifier        = "fas fa-home"
+      weight            = 1
+
+    [[Languages.pl.menu.main]]
+      name              = "O mnie"
+      url               = "/about/"
+      identifier        = "far fa-id-card"
+      weight            = 2
+
+    [[Languages.pl.menu.main]]
+      name              = "Blog"
+      url               = "/blog/"
+      identifier        = "far fa-newspaper"
+      weight            = 3
+
+    [[Languages.pl.menu.main]]
+      name              = "Kategorie"
+      url               = "/categories/"
+      identifier        = "fas fa-sitemap"
+      weight            = 5
+
+    [[Languages.pl.menu.main]]
+      name              = "Kontakt"
+      url               = "/contact/"
+      identifier        = "far fa-envelope"
+      weight            = 6
+
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
+[social]
+  # Coding Communities
+  github                = ""
+  gitlab                = ""
+  stackoverflow         = "" # User Number
+  bitbucket             = ""
+  jsfiddle              = ""
+  codepen               = ""
+  # Visual Art Communities
+  deviantart            = ""
+  flickr                = ""
+  behance               = ""
+  dribbble              = ""
+  # Publishing Communities
+  wordpress             = ""
+  medium                = ""
+  # Professional/Business Oriented Communities
+  linkedin              = "sarahniriain"
+  linkedin_company      = ""
+  foursquare            = ""
+  xing                  = ""
+  slideshare            = ""
+  # Social Networks
+  facebook              = "froodie"
+  googleplus            = ""
+  reddit                = ""
+  quora                 = ""
+  youtube               = ""
+  vimeo                 = ""
+  whatsapp              = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat              = ""
+    qq                  = "" # User ID Number
+  instagram             = "froodikins"
+  tumblr                = ""
+  twitter               = "froodie"
+  skype                 = ""
+  snapchat              = ""
+  pinterest             = ""
+  telegram              = ""
+  vine                  = ""
+  googlescholar         = ""
+  orcid                 = ""
+  researchgate          = ""
+  # Email
+  email                 = "sarah@niria.in"

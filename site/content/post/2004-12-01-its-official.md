@@ -24,39 +24,7 @@ categories:
 <center>
   </p> 
   
-  <table width="50%" cellspacing="0" cellpadding="0">
-    <tr>
-      <td bgcolor="#dfb260" width="16.67%">
-      </td>
-      
-      <td bgcolor="#606060" width="16.67%">
-      </td>
-      
-      <td bgcolor="#4d4d4d" width="16.67%">
-      </td>
-      
-      <td bgcolor="#dfdfdf" width="16.67%">
-      </td>
-      
-      <td bgcolor="#c0c0c0" width="16.67%">
-      </td>
-      
-      <td bgcolor="#bbbbbb" width="16.67%">
-      </td>
-    </tr>
-    
-    <tr>
-      <td colspan="6" align="center">
-        <a href="http://www.livejournal.com/userinfo.bml?user=froodie"><img style="vertical-align: bottom; border: 0;" alt="[info]" src="http://stat.livejournal.com/img/userinfo.gif" width="17" height="17" /></a><b><a href="http://www.livejournal.com/users/froodie/">froodie</a></b> is love
-      </td>
-    </tr>
-    
-    <tr>
-      <td colspan="6" align="center">
-        <small>brought to you by the <a href="http://www.dutchfurs.com/~haze/islove/">isLove Generator</a></small>
-      </td>
-    </tr>
-  </table>
+ 
   
   <p>
     &nbsp;
