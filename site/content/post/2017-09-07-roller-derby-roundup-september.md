@@ -10,6 +10,7 @@ categories:
 ---
 <img class="size-full wp-image-2709 alignright" src="http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17.png" alt="" width="560" height="315" srcset="http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17.png 560w, http://niria.in/wp-content/uploads/2017/09/Roller-Derby-Roundup-Header-Sept17-300x169.png 300w" sizes="(max-width: 560px) 100vw, 560px" />It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
 
+
 ## In this edition
 
   * [Spotlight][1] on DRD&#8217;s D2 triumph
