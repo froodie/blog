@@ -2,7 +2,7 @@
 title: 'Moving to Static '
 date: 2019-06-08T17:37:46.153Z
 ---
-![hugo & netlify](/site/static/img/blog/hugonetlify.jpg)
+![hugo & netlify](/img/blog/hugonetlify.jpg)
 
 I don’t blog very often. Calling me a sporadic blogger would be overly generous. I’ve probably used Facebook for much of my longer-length bits and pieces over the past few years. On Thursday I’d a day off work and wrote a diatribe about the scourge of “like and share” scams on Facebook. I posted it to Facebook, where it got surprisingly little traction (maybe because I was being patronising, maybe because people only share nonsense on Facebook, not anything useful).
 
@@ -12,7 +12,7 @@ When my (extremely talented software engineer) boyfriend arrived home, I asked h
 
 We decided on using Hugo because it seemed to be quick & easy, so I signed up to Netlify, dusted off my almost totally unused GitHub account and we were off.
 
-\((< tweet 1137410576131530752 >}}
+{{< tweet 1137410576131530752 >}}
 
 Our first step was extracting my old WordPress blog posts - most of which had actually originally come from LiveJournal. There’s a handy WordPress plugin that exports your posts in Hugo-friendly format which we were able to install via command line from cPanel (remember, I couldn't actually get into the WordPress backend at this point).
 
