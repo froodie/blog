@@ -5,7 +5,7 @@ type: post
 date: 2016-07-07T14:20:24+00:00
 excerpt: This is the first blog post in my series about my experiences with various types of therapy both medical and non-medical for my depression.
 url: /adventures-in-therapy-part-1-introduction/
-featured_image: /wp-content/uploads/2016/07/Adventures-in-e1467901004972.jpg
+featured_image: /img/blog/2016/07/Adventures-in-e1467901004972.jpg
 post_views_count:
   - 1754
 tc-thumb-fld:
@@ -24,7 +24,7 @@ tags:
 
 ---
 <p class="p1">
-  <img class="alignright size-full wp-image-1991" src="http://niria.in/wp-content/uploads/2016/07/Adventures-in-e1467901004972.jpg" alt="Adventures in" width="310" height="315" srcset="http://niria.in/wp-content/uploads/2016/07/Adventures-in-e1467901004972.jpg 310w, http://niria.in/wp-content/uploads/2016/07/Adventures-in-e1467901004972-295x300.jpg 295w" sizes="(max-width: 310px) 100vw, 310px" />I’m planning a blog series. This has never ended well before now, but I’m going to try again anyway.
+  <img class="alignright size-full wp-image-1991" src="/img/blog/2016/07/Adventures-in-e1467901004972.jpg" alt="Adventures in" width="310" height="315" srcset="/img/blog/2016/07/Adventures-in-e1467901004972.jpg 310w, /img/blog/2016/07/Adventures-in-e1467901004972-295x300.jpg 295w" sizes="(max-width: 310px) 100vw, 310px" style="display: block" />I’m planning a blog series. This has never ended well before now, but I’m going to try again anyway.
 </p>
 
 <p class="p1">

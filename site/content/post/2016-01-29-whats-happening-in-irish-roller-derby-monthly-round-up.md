@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2016-01-29T16:26:02+00:00
 url: /whats-happening-in-irish-roller-derby-monthly-round-up/
-featured_image: /wp-content/uploads/2016/01/Roller-Derby-Roundup.png
+featured_image: /img/blog/2016/01/Roller-Derby-Roundup.png
 post_views_count:
   - 1682
 tc-thumb-fld:
@@ -22,7 +22,7 @@ tags:
 ---
 It&#8217;s noses to the grindstone for most of the leagues in Ireland over the next few months &#8211; lots of training, recruitment, bootcamps and scrimmages around the country. Here&#8217;s a quick round up of what&#8217;s happening in February!<figure style="width: 477px" class="wp-caption alignright">
 
-[<img src="http://www.dublinrollerderby.com/wp-content/uploads/2016/01/belfast_jan2016.jpg" alt="" width="477" height="675" />][1]<figcaption class="wp-caption-text">DRD vs BRD &#8211; January 30th &#8211; Greystones</figcaption></figure> 
+[<img src="http://www.dublinrollerderby.com/img/blog/2016/01/belfast_jan2016.jpg" alt="" width="477" height="675" />][1]<figcaption class="wp-caption-text">DRD vs BRD &#8211; January 30th &#8211; Greystones</figcaption></figure> 
 
 ### Dublin VS Belfast &#8211; January 30th &#8211; Shoreline Leisure Centre, Greystones.
 

@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2012-11-02T16:06:41+00:00
 url: /the-new-start-continues/
-featured_image: /wp-content/uploads/2012/11/flickr-1485961106-hd-1000x288.jpg
+featured_image: /img/blog/2012/11/flickr-1485961106-hd-1000x288.jpg
 post_views_count:
   - 663
 categories:

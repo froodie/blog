@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2016-05-20T09:34:53+00:00
 url: /time-to-talk/
-featured_image: /wp-content/uploads/2016/05/Talk.jpg
+featured_image: /img/blog/2016/05/Talk.jpg
 post_views_count:
   - 2710
 tc-thumb-fld:
@@ -14,7 +14,7 @@ categories:
   - Opinions
 
 ---
-<img class="wp-image-1981 size-medium alignright" src="http://niria.in/wp-content/uploads/2016/05/Talk-300x200.jpg" alt="Talk" width="300" height="200" srcset="http://niria.in/wp-content/uploads/2016/05/Talk-300x200.jpg 300w, http://niria.in/wp-content/uploads/2016/05/Talk-768x512.jpg 768w, http://niria.in/wp-content/uploads/2016/05/Talk-480x320.jpg 480w, http://niria.in/wp-content/uploads/2016/05/Talk.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" />Today is Time to Talk Day in Ireland, organised by the <a href="http://www.greenribbon.ie/news-and-events/national-time-to-talk-day-2016/" target="_blank">Green Ribbon Project.</a>
+<img class="wp-image-1981 size-medium alignright" src="/img/blog/2016/05/Talk-300x200.jpg" alt="Talk" width="300" height="200" srcset="/img/blog/2016/05/Talk-300x200.jpg 300w, /img/blog/2016/05/Talk-768x512.jpg 768w, /img/blog/2016/05/Talk-480x320.jpg 480w, /img/blog/2016/05/Talk.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" />Today is Time to Talk Day in Ireland, organised by the <a href="http://www.greenribbon.ie/news-and-events/national-time-to-talk-day-2016/" target="_blank">Green Ribbon Project.</a>
   
 We’re making great strides in encouraging people with mental health difficulties, people who are struggling and people who are overwhelmed to reach out to someone and break the silence. From personal experience both as the reacher and the reachee, I wanted to share some tips on how to be reached out to.
 

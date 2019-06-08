@@ -5,7 +5,7 @@ type: post
 date: 2015-01-11T16:19:38+00:00
 excerpt: Match Audio is a new music-sharing app created by Jonathan Cremin aka @kudoz aka my boyfriend. I take a look at the site and what it does, and chat to him about it.
 url: /match-audio-a-solution-to-a-problem-you-didnt-know-you-had/
-featured_image: /wp-content/uploads/2015/01/logo.jpg
+featured_image: /img/blog/2015/01/logo.jpg
 post_views_count:
   - 2504
 tc-thumb-fld:
@@ -36,9 +36,9 @@ Now you can just use one link instead of many. And you never even realised you h
 
 ## But how does it work?
 
-[<img class=" wp-image-1896 size-large aligncenter" src="http://niria.in/wp-content/uploads/2015/01/Results-952x1024.jpg" alt="Results" width="952" height="1024" srcset="http://niria.in/wp-content/uploads/2015/01/Results-952x1024.jpg 952w, http://niria.in/wp-content/uploads/2015/01/Results-279x300.jpg 279w, http://niria.in/wp-content/uploads/2015/01/Results-624x671.jpg 624w, http://niria.in/wp-content/uploads/2015/01/Results.jpg 1209w" sizes="(max-width: 952px) 100vw, 952px" />][2]At the moment, there are two options &#8211; copy the link from the address bar of the music you&#8217;re listening to, and paste it into the search bar on match.audio. You&#8217;ll get a page with results from the other subscription sites, as well as a YouTube link that matches as closely as possible.
+[<img class=" wp-image-1896 size-large aligncenter" src="/img/blog/2015/01/Results-952x1024.jpg" alt="Results" width="952" height="1024" srcset="/img/blog/2015/01/Results-952x1024.jpg 952w, /img/blog/2015/01/Results-279x300.jpg 279w, /img/blog/2015/01/Results-624x671.jpg 624w, /img/blog/2015/01/Results.jpg 1209w" sizes="(max-width: 952px) 100vw, 952px" />][2]At the moment, there are two options &#8211; copy the link from the address bar of the music you&#8217;re listening to, and paste it into the search bar on match.audio. You&#8217;ll get a page with results from the other subscription sites, as well as a YouTube link that matches as closely as possible.
 
-[<img class="alignright size-full wp-image-1911" src="http://niria.in/wp-content/uploads/2015/01/Share-button1.jpg" alt="Share button" width="101" height="68" />][3]The other option for users of chrome is the chrome extension, which simplifies sharing via match.audio to a single click. This will take you to the match page for the music you&#8217;re currently listening to. You can then share via social networks so everyone will know your awesome taste in music.
+[<img class="alignright size-full wp-image-1911" src="/img/blog/2015/01/Share-button1.jpg" alt="Share button" width="101" height="68" />][3]The other option for users of chrome is the chrome extension, which simplifies sharing via match.audio to a single click. This will take you to the match page for the music you&#8217;re currently listening to. You can then share via social networks so everyone will know your awesome taste in music.
 
 I think it&#8217;s pretty cool that I don&#8217;t have to go digging for links in order to share tunes. I&#8217;d love to see the extension rolled out to other browsers, and maybe some quick how-tos for people who don&#8217;t grasp how to use it immediately. I can definitely see this becoming a great way to share what I&#8217;m listening to in a more accessible way.
 
@@ -95,5 +95,5 @@ I don’t think it makes a very good acquisition target because it doesn’t do 
 I highly recommend people use the free time they get from being made redundant productively like this. I’ve been told I’ve been able to skip technical interviews because of it. It has sped up the whole interview process everywhere &#8211; as well as making it easier to share music with my friends.
 
  [1]: http://hostr.co
- [2]: http://niria.in/wp-content/uploads/2015/01/Results.jpg
- [3]: http://niria.in/wp-content/uploads/2015/01/Share-button1.jpg
+ [2]: /img/blog/2015/01/Results.jpg
+ [3]: /img/blog/2015/01/Share-button1.jpg

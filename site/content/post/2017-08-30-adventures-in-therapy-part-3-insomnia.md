@@ -5,7 +5,7 @@ type: post
 date: 2017-08-30T11:02:41+00:00
 excerpt: A not-so-quick look at some different things that might help in dealing with insomnia.
 url: /adventures-in-therapy-part-3-insomnia/
-featured_image: /wp-content/uploads/2016/07/Adventures-in-e1467901004972.jpg
+featured_image: /img/blog/2016/07/Adventures-in-e1467901004972.jpg
 post_views_count:
   - 1163
 tc-thumb-fld:
@@ -17,7 +17,7 @@ categories:
 ---
 ## What I’ve learned about dealing with Insomnia & Anxiety.<figure style="width: 300px" class="wp-caption alignright">
 
-<img src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" alt="Picture by Basel Mahmoud (from Deviant Art)" width="300" /><figcaption class="wp-caption-text">Picture by Basel Mahmoud (from Deviant Art)</figcaption></figure> 
+<img src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" alt="Picture by Basel Mahmoud (from Deviant Art)" width="300" style="display: block" /><figcaption class="wp-caption-text">Picture by Basel Mahmoud (from Deviant Art)</figcaption></figure> 
 
 A terrible twosome, these two conditions can go hand in hand, often with Depression rounding out the trifecta. It could be finding it hard to go to sleep because of racing thoughts and elevated heartbeat or just lying awake in the middle the night worrying about everything that has happened, might happen or should have happened. And of course there’s the anxiety of “I should be asleep, I&#8217;m not asleep and NOW I AM ANXIOUS.”
 
@@ -80,7 +80,7 @@ Don&#8217;t check your work stuff late if you can avoid it. If I check my work e
 
 ### Exercise<figure id="attachment_2699" aria-describedby="caption-attachment-2699" style="width: 300px" class="wp-caption alignright">
 
-<img class="size-medium wp-image-2699" src="http://niria.in/wp-content/uploads/2017/08/sleep-workout-300x200.jpg" alt="Credit: crossfitpaleodietfitnessclasses via Flickr" width="300" height="200" srcset="http://niria.in/wp-content/uploads/2017/08/sleep-workout-300x200.jpg 300w, http://niria.in/wp-content/uploads/2017/08/sleep-workout.jpg 640w, http://niria.in/wp-content/uploads/2017/08/sleep-workout-480x320.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-2699" class="wp-caption-text">Credit: crossfitpaleodietfitnessclasses via Flickr</figcaption></figure> 
+<img class="size-medium wp-image-2699" src="/img/blog/2017/08/sleep-workout-300x200.jpg" alt="Credit: crossfitpaleodietfitnessclasses via Flickr" width="300" height="200" srcset="/img/blog/2017/08/sleep-workout-300x200.jpg 300w, /img/blog/2017/08/sleep-workout.jpg 640w, /img/blog/2017/08/sleep-workout-480x320.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-2699" class="wp-caption-text">Credit: crossfitpaleodietfitnessclasses via Flickr</figcaption></figure> 
 
 Exercise is good for tiring the body out, but try not to work out too late. Trying to get from pumped to sleepy is not an easy job. Aim to have your workout finished at least a couple of hours before bed. Even if you&#8217;re not willing or able to exercise, 20 mins moving in the fresh air a couple of hours before bed could help your body work off some energy.
 

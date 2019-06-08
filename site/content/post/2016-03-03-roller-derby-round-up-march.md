@@ -5,7 +5,7 @@ type: post
 date: 2016-03-03T00:06:38+00:00
 excerpt: "After a very busy February, things are a little quieter this month, but there's still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it's from there we'll take a look at the spotlight game of the month."
 url: /roller-derby-round-up-march/
-featured_image: /wp-content/uploads/2016/03/Roller-Derby-Roundup-March.jpg
+featured_image: /img/blog/2016/03/Roller-Derby-Roundup-March.jpg
 post_views_count:
   - 2085
 tc-thumb-fld:
@@ -25,11 +25,11 @@ tags:
   - women in sport
 
 ---
-<img class="size-large wp-image-1972 aligncenter" src="http://niria.in/wp-content/uploads/2016/03/Roller-Derby-Roundup-March-1024x405.jpg" alt="Roller Derby Roundup March" width="1024" height="405" srcset="http://niria.in/wp-content/uploads/2016/03/Roller-Derby-Roundup-March-1024x405.jpg 1024w, http://niria.in/wp-content/uploads/2016/03/Roller-Derby-Roundup-March-300x119.jpg 300w, http://niria.in/wp-content/uploads/2016/03/Roller-Derby-Roundup-March-768x304.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />After a very busy February, things are a little quieter this month, but there&#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&#8217;s from there we&#8217;ll take a look at the spotlight game of the month.
+<img class="size-large wp-image-1972 aligncenter" src="/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg" alt="Roller Derby Roundup March" width="1024" height="405" srcset="/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg 1024w, /img/blog/2016/03/Roller-Derby-Roundup-March-300x119.jpg 300w, /img/blog/2016/03/Roller-Derby-Roundup-March-768x304.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />After a very busy February, things are a little quieter this month, but there&#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&#8217;s from there we&#8217;ll take a look at the spotlight game of the month.
 
 ## Spotlight Game: LRD A vs DRD A
 
-<a href="https://www.facebook.com/events/157983544584909/" rel="attachment wp-att-1966"><img class="alignright wp-image-1966 size-full" src="http://niria.in/wp-content/uploads/2016/03/LRDDRD.jpg" alt="LRDDRD" width="751" height="960" srcset="http://niria.in/wp-content/uploads/2016/03/LRDDRD.jpg 751w, http://niria.in/wp-content/uploads/2016/03/LRDDRD-235x300.jpg 235w" sizes="(max-width: 751px) 100vw, 751px" /></a>On Saturday 12th March, Limerick Roller Derby is hosting Dublin Roller Derby A team. In Greystones. Yes, you heard me. Greystones. In County Wicklow. This is also the venue where Dublin Roller Derby played their last home game. More on this later. Back to the game.
+<a href="https://www.facebook.com/events/157983544584909/" rel="attachment wp-att-1966"><img class="alignright wp-image-1966 size-full" src="/img/blog/2016/03/LRDDRD.jpg" alt="LRDDRD" width="751" height="960" srcset="/img/blog/2016/03/LRDDRD.jpg 751w, /img/blog/2016/03/LRDDRD-235x300.jpg 235w" sizes="(max-width: 751px) 100vw, 751px" /></a>On Saturday 12th March, Limerick Roller Derby is hosting Dublin Roller Derby A team. In Greystones. Yes, you heard me. Greystones. In County Wicklow. This is also the venue where Dublin Roller Derby played their last home game. More on this later. Back to the game.
 
 Limerick Roller Derby were accepted into the WFTDA apprentice programme in October last year, making them the third league on the island (after Dublin Roller Derby and Belfast Roller Derby, now both full members) to become a member of the global body. This game will be a mock sanctioned WFTDA game (meaning it&#8217;s played and officiated as if it were an official WFTDA sanctioned game). It&#8217;s one of the requirements of graduating to full membership, and it&#8217;s absolutely BRILLIANT that they don&#8217;t have to go abroad to do it! It won&#8217;t have any bearing on spectating, so come along to the lovely Shoreline Leisure Centre in Greystones on Saturday 12th March. Doors are at 1.30pm and first whistle is at 2.30pm.
 

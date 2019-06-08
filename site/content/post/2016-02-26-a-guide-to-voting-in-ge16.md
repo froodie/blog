@@ -5,7 +5,7 @@ type: post
 date: 2016-02-26T01:34:52+00:00
 excerpt: "Here's a quick look at how to vote in an Irish Election. Tongue partly in cheek, but if you follow my steps, you genuinely won't go wrong!"
 url: /a-guide-to-voting-in-ge16/
-featured_image: /wp-content/uploads/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University.jpg
+featured_image: /img/blog/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University.jpg
 post_views_count:
   - 1829
 tc-thumb-fld:
@@ -19,7 +19,7 @@ tags:
   - voting guide
 
 ---
-<figure id="attachment_1959" aria-describedby="caption-attachment-1959" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-1959" src="http://niria.in/wp-content/uploads/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-300x239.jpg" alt="Kheel Center for Labor-Management Documentation and Archives,Cornell University Library." width="300" height="239" srcset="http://niria.in/wp-content/uploads/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-300x239.jpg 300w, http://niria.in/wp-content/uploads/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-768x611.jpg 768w, http://niria.in/wp-content/uploads/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-1024x815.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1959" class="wp-caption-text">Kheel Center for Labor-Management Documentation and Archives,Cornell University Library.</figcaption></figure> 
+<figure id="attachment_1959" aria-describedby="caption-attachment-1959" style="width: 300px" class="wp-caption alignright"><img class="size-medium wp-image-1959" src="/img/blog/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-300x239.jpg" alt="Kheel Center for Labor-Management Documentation and Archives,Cornell University Library." width="300" height="239" srcset="/img/blog/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-300x239.jpg 300w, /img/blog/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-768x611.jpg 768w, /img/blog/2016/02/Women_voter_outreach_1935_English_Yiddish-Khiel-Centre-Cornell-University-1024x815.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-1959" class="wp-caption-text">Kheel Center for Labor-Management Documentation and Archives,Cornell University Library.</figcaption></figure> 
 
 Here&#8217;s a quick look at how to vote in an Irish Election. Tongue partly in cheek, but if you follow my steps, you genuinely won&#8217;t go wrong!
 

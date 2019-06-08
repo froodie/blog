@@ -13,7 +13,7 @@ tags:
   - rant
 
 ---
-<figure id="attachment_1482" aria-describedby="caption-attachment-1482" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-1482" alt="Image by bump" src="http://niria.in/wp-content/uploads/2013/02/3806115100_d200cdbd1c.jpg" width="500" height="333" srcset="http://niria.in/wp-content/uploads/2013/02/3806115100_d200cdbd1c.jpg 500w, http://niria.in/wp-content/uploads/2013/02/3806115100_d200cdbd1c-300x199.jpg 300w, http://niria.in/wp-content/uploads/2013/02/3806115100_d200cdbd1c-450x300.jpg 450w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption id="caption-attachment-1482" class="wp-caption-text">Image by [bump][2]</figcaption></figure> 
+<figure id="attachment_1482" aria-describedby="caption-attachment-1482" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-1482" alt="Image by bump" src="/img/blog/2013/02/3806115100_d200cdbd1c.jpg" width="500" height="333" srcset="/img/blog/2013/02/3806115100_d200cdbd1c.jpg 500w, /img/blog/2013/02/3806115100_d200cdbd1c-300x199.jpg 300w, /img/blog/2013/02/3806115100_d200cdbd1c-450x300.jpg 450w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption id="caption-attachment-1482" class="wp-caption-text">Image by [bump][2]</figcaption></figure> 
 
 It&#8217;s been quite a journey to figure out who I am. On my birth cert, my name is Sarah Ann Ryan. I read Anne of Green Gables as a kid and began insisting on the E at the end of Ann &#8211; why wouldn&#8217;t you? My secondary school operated through the medium of the Irish language and insisted I use the full translation of both of my names &#8211; Sorcha Ní Riain. During university, I used the English version of both of my names Sarah Ryan for most things, and Sorcha Ní Riain for my Irish modules. For the next two years, I was Sarah Ryan.
   
@@ -37,5 +37,5 @@ So there you have it. My name is my name, and now you know why!!!!
 
 P.S., if you want to learn how to pronounce it, it&#8217;s _nee REE-uhn. _The &#8220;ní&#8221; is an indicator that I&#8217;m a girl as opposed to part of the name, so the emphasis is on the REE part!
 
- [1]: http://niria.in/wp-content/uploads/2013/02/3806115100_d200cdbd1c.jpg
+ [1]: /img/blog/2013/02/3806115100_d200cdbd1c.jpg
  [2]: http://www.flickr.com/photos/bump/

@@ -6,7 +6,7 @@ date: 2014-11-13T18:01:33+00:00
 excerpt: "Weddings &#8211; they&#8217;re definitely not like they used to be! In some ways, that's good."
 url: /i-think-i-wanna-marry-you-its-not-what-you-think/
 
-featured_image: /wp-content/uploads/2014/11/9694033389_f88fac803a_k-624x415.jpg
+featured_image: /img/blog/2014/11/9694033389_f88fac803a_k-624x415.jpg
 post_views_count:
   - 2479
 categories:
@@ -24,13 +24,13 @@ tags:
 ---
 &nbsp;<figure id="attachment_1859" aria-describedby="caption-attachment-1859" style="width: 300px" class="wp-caption alignright">
 
-[<img class="size-medium wp-image-1859" src="http://niria.in/wp-content/uploads/2014/11/DSC_0043-1-300x199.jpg" alt="Me hugging the bride (pic by Shane Serrano)" width="300" height="199" srcset="http://niria.in/wp-content/uploads/2014/11/DSC_0043-1-300x199.jpg 300w, http://niria.in/wp-content/uploads/2014/11/DSC_0043-1-1024x680.jpg 1024w, http://niria.in/wp-content/uploads/2014/11/DSC_0043-1-624x414.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1859" class="wp-caption-text">Me hugging the bride (pic by Shane Serrano)</figcaption></figure> 
+[<img class="size-medium wp-image-1859" src="/img/blog/2014/11/DSC_0043-1-300x199.jpg" alt="Me hugging the bride (pic by Shane Serrano)" width="300" height="199" srcset="/img/blog/2014/11/DSC_0043-1-300x199.jpg 300w, /img/blog/2014/11/DSC_0043-1-1024x680.jpg 1024w, /img/blog/2014/11/DSC_0043-1-624x414.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1859" class="wp-caption-text">Me hugging the bride (pic by Shane Serrano)</figcaption></figure> 
 
 Weddings &#8211; they&#8217;re definitely not like they used to be! In some ways, that&#8217;s good. In others, maybe not so much. When it comes to spending a chunk of cash that could be better spent on a house or a car or a really expensive couch, I think things are maybe a little more frenzied than they used to be. The trend towards designing the day to be something that suits the couple getting wed can only be a good thing in my mind.
 
 From having a wedding on a beach or in your backyard, to staying traditional with the church and hotel route &#8211; and everything in between &#8211; people are having their weddings the way they want.<figure id="attachment_1860" aria-describedby="caption-attachment-1860" style="width: 300px" class="wp-caption alignleft">
 
-[<img class="wp-image-1860 size-medium" src="http://niria.in/wp-content/uploads/2014/11/T3040x2014-00170-300x199.jpg" alt="Crazy Handfasting (pic by Shane Serrano)" width="300" height="199" srcset="http://niria.in/wp-content/uploads/2014/11/T3040x2014-00170-300x199.jpg 300w, http://niria.in/wp-content/uploads/2014/11/T3040x2014-00170-1024x680.jpg 1024w, http://niria.in/wp-content/uploads/2014/11/T3040x2014-00170-624x414.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption id="caption-attachment-1860" class="wp-caption-text">Crazy Handfasting (pic by Shane Serrano)</figcaption></figure> 
+[<img class="wp-image-1860 size-medium" src="/img/blog/2014/11/T3040x2014-00170-300x199.jpg" alt="Crazy Handfasting (pic by Shane Serrano)" width="300" height="199" srcset="/img/blog/2014/11/T3040x2014-00170-300x199.jpg 300w, /img/blog/2014/11/T3040x2014-00170-1024x680.jpg 1024w, /img/blog/2014/11/T3040x2014-00170-624x414.jpg 624w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption id="caption-attachment-1860" class="wp-caption-text">Crazy Handfasting (pic by Shane Serrano)</figcaption></figure> 
 
 A few years ago, I was honoured, blown away and gobsmacked to be asked by two good friends to be the celebrant at their wedding ceremony. They had done the legal bits and bobs earlier that day and were looking for someone that they were comfortable with and who would be comfortable standing up in front of everyone to do the &#8220;real&#8221; wedding stuff for them, their family and friends.
 
@@ -79,7 +79,7 @@ And on a related note, please check the <a href="http://www.checktheregister.ie/
 
 Massive thanks to Hazel of <a href="http://www.cupcakerys.com/" target="_blank">Cupcakery</a> and her husband, Mike, for letting me chat about their wedding here!
 
- [1]: http://niria.in/wp-content/uploads/2014/11/DSC_0043-1.jpg
- [2]: http://niria.in/wp-content/uploads/2014/11/T3040x2014-00170.jpg
+ [1]: /img/blog/2014/11/DSC_0043-1.jpg
+ [2]: /img/blog/2014/11/T3040x2014-00170.jpg
  [3]: http://humanism.ie/2013/06/legal-humanist-marriages-at-last/
  [4]: http://humanism.ie/getinvolved/membership-page/

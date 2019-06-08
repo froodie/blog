@@ -4,7 +4,7 @@ author: JobFairyHQ
 type: post
 date: 2014-11-11T13:21:29+00:00
 url: /for-jobseekers-tips-for-smart-job-searching-on-mobile/
-featured_image: /wp-content/uploads/2014/10/6756420231_7d45a5abdf1.jpg
+featured_image: /img/blog/2014/10/6756420231_7d45a5abdf1.jpg
 post_views_count:
   - 1919
 categories:
@@ -24,7 +24,7 @@ tags:
   - social
 
 ---
-<figure id="attachment_1826" aria-describedby="caption-attachment-1826" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1826" src="http://niria.in/wp-content/uploads/2014/10/6756420231_7d45a5abdf1-300x199.jpg" alt="By: Maryland GovPics" width="300" height="199" srcset="http://niria.in/wp-content/uploads/2014/10/6756420231_7d45a5abdf1-300x199.jpg 300w, http://niria.in/wp-content/uploads/2014/10/6756420231_7d45a5abdf1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1826" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/mdgovpics/6756420231/" target="_blank">Maryland GovPics</a></figcaption></figure> 
+<figure id="attachment_1826" aria-describedby="caption-attachment-1826" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1826" src="/img/blog/2014/10/6756420231_7d45a5abdf1-300x199.jpg" alt="By: Maryland GovPics" width="300" height="199" srcset="/img/blog/2014/10/6756420231_7d45a5abdf1-300x199.jpg 300w, /img/blog/2014/10/6756420231_7d45a5abdf1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1826" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/mdgovpics/6756420231/" target="_blank">Maryland GovPics</a></figcaption></figure> 
 
 Recruitment is changing. How people search for their jobs is changing.
 
@@ -56,7 +56,7 @@ If you stop your search every time you find something that might suit in order t
 
 #### Broaden your search
 
-[<img class="alignright size-medium wp-image-1838" src="http://niria.in/wp-content/uploads/2014/11/Twitter-search-168x300.png" alt="Twitter search" width="168" height="300" srcset="http://niria.in/wp-content/uploads/2014/11/Twitter-search-168x300.png 168w, http://niria.in/wp-content/uploads/2014/11/Twitter-search-576x1024.png 576w, http://niria.in/wp-content/uploads/2014/11/Twitter-search-624x1109.png 624w, http://niria.in/wp-content/uploads/2014/11/Twitter-search.png 1080w" sizes="(max-width: 168px) 100vw, 168px" />][3]Don&#8217;t just use a single search term. Not everyone is going to use the same naming conventions as you do for things. Broaden your search for other search terms relative to what you&#8217;re looking for, especially with hashtags.
+[<img class="alignright size-medium wp-image-1838" src="/img/blog/2014/11/Twitter-search-168x300.png" alt="Twitter search" width="168" height="300" srcset="/img/blog/2014/11/Twitter-search-168x300.png 168w, /img/blog/2014/11/Twitter-search-576x1024.png 576w, /img/blog/2014/11/Twitter-search-624x1109.png 624w, /img/blog/2014/11/Twitter-search.png 1080w" sizes="(max-width: 168px) 100vw, 168px" />][3]Don&#8217;t just use a single search term. Not everyone is going to use the same naming conventions as you do for things. Broaden your search for other search terms relative to what you&#8217;re looking for, especially with hashtags.
 
 For example if you&#8217;re looking for a job as a mechanical engineer, you could search for &#8220;mechanical engineer&#8221;, &#8220;mechanical engineering&#8221;, &#8220;mech eng&#8221; and a few other variables.
 
@@ -72,6 +72,6 @@ If you&#8217;re anything like me, formatting any document nicely on mobile is a 
 
 As someone who still does most of her searching via desktop &#8211; only bookmarking via mobile when I happen across something, I&#8217;d love to hear some more tips from those of you who use your mobile devices for job searching.
 
- [1]: http://niria.in/wp-content/uploads/2014/10/6756420231_7d45a5abdf1.jpg
+ [1]: /img/blog/2014/10/6756420231_7d45a5abdf1.jpg
  [2]: http://about.beyond.com/infographics/mobile-job-search-apps
- [3]: http://niria.in/wp-content/uploads/2014/11/Twitter-search.png
+ [3]: /img/blog/2014/11/Twitter-search.png

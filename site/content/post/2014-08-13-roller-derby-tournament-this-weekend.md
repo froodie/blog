@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2014-08-13T19:28:45+00:00
 url: /roller-derby-tournament-this-weekend/
-featured_image: /wp-content/uploads/2014/08/Queen-Bee-624x230.jpg
+featured_image: /img/blog/2014/08/Queen-Bee-624x230.jpg
 post_views_count:
   - 1102
 categories:

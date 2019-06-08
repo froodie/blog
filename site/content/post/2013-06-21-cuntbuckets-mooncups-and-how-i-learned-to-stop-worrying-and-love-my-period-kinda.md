@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2013-06-21T21:40:32+00:00
 url: /cuntbuckets-mooncups-and-how-i-learned-to-stop-worrying-and-love-my-period-kinda/
-featured_image: /wp-content/uploads/2013/06/mooncup-652x288.jpg
+featured_image: /img/blog/2013/06/mooncup-652x288.jpg
 post_views_count:
   - 2562
 categories:
@@ -15,7 +15,7 @@ tags:
   - women
 
 ---
-> <figure id="attachment_1659" aria-describedby="caption-attachment-1659" style="width: 652px" class="wp-caption alignright">[<img class=" wp-image-1659 " src="http://niria.in/wp-content/uploads/2013/06/mooncup.jpg" alt="This awesome mooncup plushie is by Unicorn Reality" width="652" height="383" srcset="http://niria.in/wp-content/uploads/2013/06/mooncup.jpg 652w, http://niria.in/wp-content/uploads/2013/06/mooncup-300x176.jpg 300w, http://niria.in/wp-content/uploads/2013/06/mooncup-500x293.jpg 500w" sizes="(max-width: 652px) 100vw, 652px" />][1]<figcaption id="caption-attachment-1659" class="wp-caption-text">This awesome mooncup plushie is by Unicorn Reality</figcaption></figure>
+> <figure id="attachment_1659" aria-describedby="caption-attachment-1659" style="width: 652px" class="wp-caption alignright">[<img class=" wp-image-1659 " src="/img/blog/2013/06/mooncup.jpg" alt="This awesome mooncup plushie is by Unicorn Reality" width="652" height="383" srcset="/img/blog/2013/06/mooncup.jpg 652w, /img/blog/2013/06/mooncup-300x176.jpg 300w, /img/blog/2013/06/mooncup-500x293.jpg 500w" sizes="(max-width: 652px) 100vw, 652px" />][1]<figcaption id="caption-attachment-1659" class="wp-caption-text">This awesome mooncup plushie is by Unicorn Reality</figcaption></figure>
 _This post is aimed at people who menstruate. It may be interesting to those who don&#8217;t, but if you complain about it being about menstruation having read it, I&#8217;m going to mock you._
 
 I&#8217;ve been hearing about the next great leap in feminine hygiene (now there&#8217;s a phrase I hate with a passion) for quite a few years now. The silicone menstrual cup goes by many names, almost all of them with a touch of the earthmother off them. I call them cuntbuckets myself &#8211; because that&#8217;s basically what it is. It&#8217;s a little medical grade silicone cup that sits in your vagina during your period. You stick it up there, it collects your menses, you take it out every 4-8 hours, empty it, rinse or clean it and shove it back up for another spell.

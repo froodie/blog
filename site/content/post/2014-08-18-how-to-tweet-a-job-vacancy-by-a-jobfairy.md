@@ -19,7 +19,7 @@ tags:
   - twitter
 
 ---
-<figure id="attachment_1760" aria-describedby="caption-attachment-1760" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1760 " src="http://niria.in/wp-content/uploads/2014/08/9224605544_1aa3021c96-300x193.jpg" alt="" width="300" height="193" srcset="http://niria.in/wp-content/uploads/2014/08/9224605544_1aa3021c96-300x193.jpg 300w, http://niria.in/wp-content/uploads/2014/08/9224605544_1aa3021c96.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1760" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/juliewalraven/9224605544/" target="_blank">Julie Walraven</a></figcaption></figure> 
+<figure id="attachment_1760" aria-describedby="caption-attachment-1760" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1760 " src="/img/blog/2014/08/9224605544_1aa3021c96-300x193.jpg" alt="" width="300" height="193" srcset="/img/blog/2014/08/9224605544_1aa3021c96-300x193.jpg 300w, /img/blog/2014/08/9224605544_1aa3021c96.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1760" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/juliewalraven/9224605544/" target="_blank">Julie Walraven</a></figcaption></figure> 
 
 I run the @JobfairyHQ twitter account. I have over 3,400 followers &#8211; mostly a mixture of jobseekers, recruiters, and companies I&#8217;ve retweeted who follow me to be nice.
   
@@ -73,4 +73,4 @@ I hope you gained some insight from this post, and all the very best of luck in 
 
 &nbsp;
 
- [1]: http://niria.in/wp-content/uploads/2014/08/9224605544_1aa3021c96.jpg
+ [1]: /img/blog/2014/08/9224605544_1aa3021c96.jpg
