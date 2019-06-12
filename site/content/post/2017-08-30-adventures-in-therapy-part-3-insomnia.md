@@ -17,7 +17,6 @@ type: post
 url: /adventures-in-therapy-part-3-insomnia/
 ---
 ## What I’ve learned about dealing with Insomnia & Anxiety.<figure style="width: 300px" class="wp-caption alignright">
-
 <img src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" alt="Picture by Basel Mahmoud (from Deviant Art)" width="720" style="display: block" /><figcaption class="wp-caption-text">Picture by Basel Mahmoud (from Deviant Art)</figcaption></figure>
 
 A terrible twosome, these two conditions can go hand in hand, often with Depression rounding out the trifecta. It could be finding it hard to go to sleep because of racing thoughts and elevated heartbeat or just lying awake in the middle the night worrying about everything that has happened, might happen or should have happened. And of course there’s the anxiety of “I should be asleep, I’m not asleep and NOW I AM ANXIOUS.”
@@ -165,3 +164,4 @@ Occupational Therapy – I was referred to an Occupational Therapist to help me 
 [WRAP Program](http://mentalhealthrecovery.com/) – I will never stop banging on about the WRAP (Wellness Recovery Action Plan) programme. Basically, it’s a way for you to identify the signs that show you’re starting to struggle and a way to provide a toolkit of ways to help you get yourself back to a healthier place. It’s definitely not a crisis intervention – it’s a longer term framework to help awareness of your own mental health. The website is very American, but I firmly believe this stuff should be taught in secondary school. I got access to this programme via my referral to HSE Mental Health Services in Darndale, so it’s worth talking to your doctor, psychiatrist or occupational therapist.
 
 The other one was a CBT (cognitive behavioural therapy) based course I did (again HSE based). This one was awesome and helped me with how to deal with anxiety itself (what triggers it, what to do with the thoughts when they happen etc). It might be worth chatting with your doc to see if there’s anything local you can get referred to.
+
