@@ -15,7 +15,7 @@ lj_picture_keyword:
 post_views_count:
   - 464
 categories:
-  - LiveJournal
+
   - "The 'Zealand"
 
 ---

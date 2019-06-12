@@ -12,6 +12,8 @@ post_views_count:
   - 710
 categories:
   - Tech
+  - Geekery
+  - Updates
 
 ---
 I am still in bed after the weekend. I pity those that had to get up to travel/get flights etc.

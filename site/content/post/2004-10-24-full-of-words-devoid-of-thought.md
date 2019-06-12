@@ -17,8 +17,11 @@ lj_picture_keyword:
 post_views_count:
   - 500
 categories:
-  - LiveJournal
-  - "The 'Zealand"
+- Updates
+- "The 'Zealand"
+tags:
+- travelling
+- backpacking
 
 ---
 Since the last time I did the blogging thing, I&#8217;ve been doing more or less the same things, talking to the same people, working the same jobs, complaining about the same things. Three jobs is too many. Therefore from the 31st, I shall be a woman with a mere TWO jobs. the daytime one and the sometimes cleaning one are all that will be left to me. With the free time I get as a prize for removing a chunk of my income I plan to do things, write things, keep in contact with people, get some exercise and fresh air, go places, read more, meet more people and have more fun. What is more likely to happen is that I spend every evening sitting on the couch eating and watching tv.

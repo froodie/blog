@@ -9,6 +9,7 @@ post_views_count:
   - 663
 categories:
   - Dublin
+  - Updates
 tags:
   - life
   - limerick

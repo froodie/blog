@@ -10,6 +10,7 @@ post_views_count:
 categories:
   - Dublin
   - Tech
+  - Geekery
 tags:
   - adventures
   - programming

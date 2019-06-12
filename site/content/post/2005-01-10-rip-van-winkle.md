@@ -14,7 +14,7 @@ post_views_count:
   - 625
 categories:
   - Books and Reading
-  - LiveJournal
+
 
 ---
 Don&#8217;t you just love the feeling you get when you&#8217;ve been engrossed in a book for hours and you&#8217;ve completely disregarded reality, to the point that you&#8217;ve forgotten that there&#8217;s someone else in the room, and you finish the book and it feels like you&#8217;ve been asleep for a hundred years?

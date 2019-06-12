@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 575
 categories:
-  - LiveJournal
+  - Updates
 
 ---
 I am, of course, talking about my phone.

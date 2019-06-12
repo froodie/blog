@@ -13,7 +13,7 @@ lj_picture_keyword:
 post_views_count:
   - 502
 categories:
-  - LiveJournal
+  - Updates
 
 ---
 Strangers are funny old things.  

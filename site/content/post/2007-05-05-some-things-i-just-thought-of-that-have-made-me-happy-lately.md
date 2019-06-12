@@ -17,7 +17,7 @@ lj_current_music:
 post_views_count:
   - 626
 categories:
-  - LiveJournal
+  - Updates
 tags:
   - lift the spirit and gladden the heart
 

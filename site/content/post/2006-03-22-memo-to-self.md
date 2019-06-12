@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 468
 categories:
-  - LiveJournal
+  - Updates
 
 ---
 I am the master of my days.

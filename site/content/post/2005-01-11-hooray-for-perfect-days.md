@@ -17,7 +17,7 @@ lj_picture_keyword:
 post_views_count:
   - 643
 categories:
-  - LiveJournal
+
   - "The 'Zealand"
 tags:
   - adventures

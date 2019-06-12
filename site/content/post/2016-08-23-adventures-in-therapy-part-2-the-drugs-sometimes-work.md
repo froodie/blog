@@ -24,7 +24,8 @@ tags:
 
 ---
 <p class="p1">
-  <img class="alignright size-full wp-image-1991" src="/img/blog/2016/07/Adventures-in-e1467901004972.jpg" alt="Adventures in" width="310" height="315" srcset="/img/blog/2016/07/Adventures-in-e1467901004972.jpg 310w, /img/blog/2016/07/Adventures-in-e1467901004972-295x300.jpg 295w" sizes="(max-width: 310px) 100vw, 310px" style="display: block" /><em>This is the second post in my series on the topic of the different treatments I&#8217;ve been on for Depression & Anxiety. I&#8217;m looking at the different types of drugs I was prescribed and I might also tell you how I really feel about people&#8217;s attitude to medicating for depression.</em>
+  <img class="alignright size-full wp-image-1991" src="/img/blog/2016/07/Adventures-in-e1467901004972.jpg" alt="Adventures in" srcset="/img/blog/2016/07/Adventures-in-e1467901004972.jpg 310w, /img/blog/2016/07/Adventures-in-e1467901004972-295x300.jpg 295w" sizes="(max-width: 310px) 100vw, 310px" style="display: block" /><em>
+  This is the second post in my series on the topic of the different treatments I&#8217;ve been on for Depression & Anxiety. I&#8217;m looking at the different types of drugs I was prescribed and I might also tell you how I really feel about people&#8217;s attitude to medicating for depression.</em>
 </p>
 
 <p class="p1">

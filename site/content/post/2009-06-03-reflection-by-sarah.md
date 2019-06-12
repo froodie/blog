@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 669
 categories:
-  - LiveJournal
+  - Updates
 tags:
   - photos
 

@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 663
 categories:
-  - LiveJournal
+  - Words are great
 
 ---
 I saw this poem today, made the day a little brighter!

@@ -15,6 +15,12 @@ tc-thumb-fld:
 title: 'Adventures In Therapy: Part 3 – Insomnia'
 type: post
 url: /adventures-in-therapy-part-3-insomnia/
+tags:
+- Mental Health
+- Insomnia
+- Anxiety
+- Sleep Hygiene
+
 ---
 ## What I’ve learned about dealing with Insomnia & Anxiety.<figure style="width: 300px" class="wp-caption alignright">
 <img src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" alt="Picture by Basel Mahmoud (from Deviant Art)" width="720" style="display: block" /><figcaption class="wp-caption-text">Picture by Basel Mahmoud (from Deviant Art)</figcaption></figure>
@@ -29,7 +35,7 @@ Please remember that even though I’ve gotten some of this advice from doctors 
 
 ## Sleep Hygiene
 
-<img class="alignright size-large" src="https://c.pxhere.com/photos/b2/ab/dog_sleep_lazy_tired_relax_exhausted_amitava_saha_chill_out-1413136.jpg!d" alt="" width="300" />
+<img class="alignright size-large" src="https://c.pxhere.com/photos/b2/ab/dog_sleep_lazy_tired_relax_exhausted_amitava_saha_chill_out-1413136.jpg!d" alt=""/>
 
 This is one I’ve read a lot on. It doesn’t mean making sure you wash your teeth before bed (but, you know, do!), it’s just common sense steps to make sure you’re putting yourself in the best situation to get to sleep. What good sleep hygiene can do is help prepare your body and mind for the fact that it’s time to go to sleep, and it helps you avoid some stuff that would hinder good, healthy sleep.
 
@@ -86,7 +92,7 @@ Don’t check your work stuff late if you can avoid it. If I check my work email
 
 ### <figure id="attachment_2699" aria-describedby="caption-attachment-2699"  class="wp-caption alignright">
 
-<img class="size-medium wp-image-2699" src="/img/blog/2017/08/sleep-workout-300x200.jpg" alt="Credit: crossfitpaleodietfitnessclasses via Flickr"  srcset="/img/blog/2017/08/sleep-workout-300x200.jpg 300w, /img/blog/2017/08/sleep-workout.jpg 640w, /img/blog/2017/08/sleep-workout-480x320.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-2699" class="wp-caption-text">Credit: crossfitpaleodietfitnessclasses via Flickr</figcaption></figure>
+<img class="size-medium wp-image-2699" src="/img/blog/2017/08/sleep-workout-300x200.jpg" alt="Credit: crossfitpaleodietfitnessclasses via Flickr"  srcset="/img/blog/2017/08/sleep-workout-300x200.jpg 300w, /img/blog/2017/08/sleep-workout.jpg 640w, /img/blog/2017/08/sleep-workout-480x320.jpg 480w"  /><figcaption id="caption-attachment-2699" class="wp-caption-text">Credit: crossfitpaleodietfitnessclasses via Flickr</figcaption></figure>
 
 Exercise is good for tiring the body out, but try not to work out too late. Trying to get from pumped to sleepy is not an easy job. Aim to have your workout finished at least a couple of hours before bed. Even if you’re not willing or able to exercise, 20 mins moving in the fresh air a couple of hours before bed could help your body work off some energy.
 

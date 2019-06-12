@@ -11,13 +11,11 @@ lj_permalink:
 post_views_count:
   - 349
 categories:
-  - LiveJournal
   - "The 'Zealand"
 
 ---
-Does a plain text email defeat the attack of the involuntary linebreaks that have been pestering my posterings? I won&#8217;t know until after work, I guess. If then.
 
-In other news, I like $100 more than I like rugby. There was a ticket for the taking, and I didn&#8217;t take it. This marks me out as a rugby wuss. Which is ok by me. I was only in it for the chance to wear my Munster jersey and get shouted at by cork people anyway.
+Today's news: I like $100 more than I like rugby. There was a ticket for the taking, and I didn&#8217;t take it. This marks me out as a rugby wuss. Which is ok by me. I was only in it for the chance to wear my Munster jersey and get shouted at by cork people anyway.
 
 Yesterevening began my plan to impose on all of the people who drunkenly invited me over to their houses to watch movies and/or Invader Zim (and promptly forgot! Ha!). Jackie and Hugh were my chosen victims, and Captain Tom my accomplice (chosen or otherwise :P) Hot spiced wine, squiggly biscuits, good company and Finally Seeing Fargo (ahhhhhhhh),
   

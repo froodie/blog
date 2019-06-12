@@ -11,7 +11,9 @@ lj_permalink:
 post_views_count:
   - 472
 categories:
-  - LiveJournal
+  - updates
+tags:
+- Clonlara
 
 ---
 My mum and I got all civic spirited yesterday and went for a walk&#8230;

@@ -11,8 +11,12 @@ lj_permalink:
 post_views_count:
   - 609
 categories:
-  - LiveJournal
   - "The 'Zealand"
+tags:
+- working holiday
+- backpacking
+- travelling
+- adventures
 
 ---
 Buggerit! I really am working for the man. GE donated $2.58million to the US Republican party since 1999. Yuk. I&#8217;m finishing in 2 weeks though, so that&#8217;ll stick it to them. Yeah! And I stole about 20 helium balloons today, all printed with GE Money, which is what GE finance is now called in New Zealand. So I&#8217;ve made them scared now, I&#8217;ll bet.

@@ -4,20 +4,9 @@ author: Sarah
 type: draft
 date: 2003-05-25T14:52:00+00:00
 url: /my-brother-the-hero/
-lj_itemid:
-  - 136
-lj_permalink:
-  - '#/35069.html'
-lj_current_mood:
-  - shocked
-lj_current_music:
-  - 'rest - to learn'
-lj_picture_keyword:
-  - tat
 post_views_count:
   - 626
 categories:
-  - LiveJournal
   - Updates
 
 ---

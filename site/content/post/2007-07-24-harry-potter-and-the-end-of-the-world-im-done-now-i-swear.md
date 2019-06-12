@@ -16,20 +16,15 @@ post_views_count:
   - 742
 categories:
   - Books and Reading
-  - LiveJournal
+  - Updates
 tags:
   - funtimes
   - meeja
+  - harry potter
 
 ---
-<p class="MsoNormal" style="margin: 0cm 0cm 0pt;">
-  <span style="font-family: 'Trebuchet MS';" lang="EN-IE">It’s been fun, since Saturday, waiting for people to finish The Book That Shall Not Be Named so that we could huddle in dark corners to discuss it without hysterical accusations of spoiling. I even set up an IRC channel on intersocs, and people have been dribbling in, saying “I can’t believe it’s over” and then leaving.</span>
-</p>
+It’s been fun, since Saturday, waiting for people to finish The Book That Shall Not Be Named so that we could huddle in dark corners to discuss it without hysterical accusations of spoiling. I even set up an IRC channel on intersocs, and people have been dribbling in, saying “I can’t believe it’s over” and then leaving.
 
-<p class="MsoNormal" style="margin: 0cm 0cm 0pt;">
-  <span style="font-family: 'Trebuchet MS';" lang="EN-IE">It’s odd. There are so many books out there, so many series of books, some of which are awful, but many of which are as good, and some of which are a LOT better than the Harry Potter series. And yet there are so many people for whom this is the end of the reading life for them. They don’t know where to go next. I’ve been trying to point younger folk at His Dark Materials and the Tiffany Aching books from the Discworld series. Anything but back to Babysitters and Goosebumps!</span>
-</p>
+It’s odd. There are so many books out there, so many series of books, some of which are awful, but many of which are as good, and some of which are a LOT better than the Harry Potter series. And yet there are so many people for whom this is the end of the reading life for them. They don’t know where to go next. I’ve been trying to point younger folk at His Dark Materials and the Tiffany Aching books from the Discworld series. Anything but back to Babysitters and Goosebumps!But I still got to pet an owl and a snake and an Irish wolfhound and queue for hours to buy a book. I’m very glad that happened and that a roar of excitement went up at midnight from the hundreds and hundreds of people in the queue. The smart ones at the back then legged it off to tesco or dunnes and bought the book there at ten past midnight with no queue at all, but that said, I’m glad I was there, just for the buzz about a book!
 
-<p class="MsoNormal" style="margin: 0cm 0cm 0pt;">
-  <span style="font-family: 'Trebuchet MS';" lang="EN-IE">But I still got to pet an owl and a snake and an Irish wolfhound and queue for hours to buy a book. I’m very glad that happened and that a roar of excitement went up at midnight from the hundreds and hundreds of people in the queue. The smart ones at the back then legged it off to tesco or dunnes and bought the book there at ten past midnight with no queue at all, but that said, I’m glad I was there, just for the buzz about a book!<br /> Oh, and that was me on Live 95fm yesterday morning, babbling sleepily about the series.</span>
-</p>
+Oh, and that was me on Live 95fm yesterday morning, babbling sleepily about the series.

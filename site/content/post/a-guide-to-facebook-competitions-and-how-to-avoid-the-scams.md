@@ -1,6 +1,11 @@
 ---
 title: "A guide to\_Facebook Competitions and how to avoid the scams"
 date: 2019-06-08T20:26:09.240Z
+categories: 
+- Tech
+tags: 
+- facebook
+- social media
 ---
 ![avoid fb scams](/img/blog/avoid-fb-scams.jpg)
 

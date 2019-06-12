@@ -11,10 +11,10 @@ lj_permalink:
 post_views_count:
   - 559
 categories:
-  - LiveJournal
+  - Updates
 
 ---
-<!-- Posted pictures -->So, I&#8217;m older than I was&#8230; &nbsp;the year counter racheted up one more notch on Sunday. The entire weekend was spent celebrating, which was kind of nice&#8230; I think I&nbsp;like the thoughts of a birthday weekend. There was choir, and guinness, and dancing in awful clubs, and hangovers, and journeys and opera and hugs and friends and more alcohols, and passing out on a buddabag like the olden days, and food and food and food and singing, and karaoke booths and cocktails. 
+So, I&#8217;m older than I was&#8230; &nbsp;the year counter racheted up one more notch on Sunday. The entire weekend was spent celebrating, which was kind of nice&#8230; I think I&nbsp;like the thoughts of a birthday weekend. There was choir, and guinness, and dancing in awful clubs, and hangovers, and journeys and opera and hugs and friends and more alcohols, and passing out on a buddabag like the olden days, and food and food and food and singing, and karaoke booths and cocktails. 
 
   
 Honestly, I&nbsp;don&#8217;t think I&nbsp;could have asked for a better weekend. Thanks so much to all who sent messages via text and here on facebook, and who showed up at the Long Stone, or Doyles, or Bia Bar, or the Mongolian BBQ or Karaoke 🙂  

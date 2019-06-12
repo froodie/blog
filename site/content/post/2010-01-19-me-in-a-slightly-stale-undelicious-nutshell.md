@@ -13,7 +13,8 @@ lj_current_mood:
 post_views_count:
   - 681
 categories:
-  - LiveJournal
+  - updates
+  - Mental Health
 
 ---
 You know those montages in silly Hollywood movies where one character lets themselves go completely and sits around watching daytime tv and eating cereal and wearing pyjamas/tracksuits all day with messy hair and an ever-expanding waistline? That&#8217;s me. For the past four and a half months, since my contract wasn&#8217;t renewed at the place were I worked and loved it, I&#8217;ve been a Hollywood stereotype. And yes, I&#8217;m listening to Rachmaninov&#8217;s second piano concerto at the moment too. And looking off into space while I try to figure out why I haven&#8217;t done a single thing on my to-do list for the day.

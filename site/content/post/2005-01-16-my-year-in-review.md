@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 565
 categories:
-  - LiveJournal
+  - Updates
 tags:
   - blog about blogging about blogs about bl
 

@@ -17,9 +17,11 @@ lj_picture_keyword:
 post_views_count:
   - 425
 categories:
-  - LiveJournal
   - "The 'Zealand"
-
+tags:
+- travelling
+- backpacking
+- dunedin
 ---
 Good afternoon,
 

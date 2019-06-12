@@ -18,7 +18,6 @@ post_views_count:
   - 667
 categories:
   - Books and Reading
-  - LiveJournal
   - "The 'Zealand"
 
 ---

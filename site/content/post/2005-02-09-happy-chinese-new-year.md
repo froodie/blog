@@ -15,7 +15,12 @@ lj_current_music:
 post_views_count:
   - 318
 categories:
-  - LiveJournal
+  - The 'Zealand
+tags:
+- backpacking
+- travelling
+- dunedin
+- chinese new year
 
 ---
 I completely forgot about the pancakes yesterday, but last night at midnight there were the coolest fireworks to celebrate Chinese New Year. It&#8217;s good that NZ sometimes remembers that it&#8217;s closer to Asia than Europe. Also yesterday I wandered around the Museum, which was partially closed due to flooding from the excellent rains the day before. As were quite a few shops in the city centre.

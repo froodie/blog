@@ -11,8 +11,8 @@ lj_permalink:
 post_views_count:
   - 519
 categories:
-  - LiveJournal
   - "The 'Zealand"
+  - Words are Great
 
 ---
 To qualify this, I find poo amusing.

@@ -11,7 +11,9 @@ lj_permalink:
 post_views_count:
   - 481
 categories:
-  - LiveJournal
+  - Updates
+tags:
+- family
 
 ---
 I&#8217;m back home, hiding out for a bit. But there are definitely upsides. 

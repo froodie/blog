@@ -8,6 +8,7 @@ post_views_count:
   - 746
 categories:
   - Opinions
+  - Feminism
 tags:
   - Savita
   - women

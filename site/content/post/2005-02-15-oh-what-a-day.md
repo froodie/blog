@@ -17,8 +17,12 @@ lj_picture_keyword:
 post_views_count:
   - 383
 categories:
-  - LiveJournal
   - "The 'Zealand"
+tags:
+- travelling
+- backpacking
+- otago
+- birdwatching
 
 ---
 Talk about birdwatching!! I just had the most fantastic day out the Otago Peninsula&#8230; We saw oystercatchers, paradise shell ducks, shags, herons, a kingfisher, LOADS of albatross, lil blue penguins and yellow-eyed penguins (hoiho). Also many fur seals. The Albatross is the most amazing bird. Its chest isn&#8217;t strong enough to flap its wings very much, and yet it can fly 150,000 kilometres in a YEAR! It&#8217;s so graceful and dignified and amazing to watch. If you are lucky enough to be going albatross watching&#8230;. wait for a clear and windy day. We saw loads of them glide right over our heads.

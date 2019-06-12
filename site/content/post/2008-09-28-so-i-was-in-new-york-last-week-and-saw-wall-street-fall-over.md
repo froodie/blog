@@ -13,7 +13,10 @@ lj_picture_keyword:
 post_views_count:
   - 578
 categories:
-  - LiveJournal
+  - Updates
+tags:
+  - travelling
+  - New York
 
 ---
 Well, sort of. I&nbsp;was staying just off Wall Street, with my Very Good, Kind and Wonderful friend <a href="http://blogs.nonado.net/artemis" target="_blank">Artemis.</a> It was mostly a relatively chilled-out time, but there were some bits that ended up being unexpectedly mental.  

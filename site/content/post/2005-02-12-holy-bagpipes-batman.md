@@ -18,9 +18,12 @@ post_views_count:
   - 608
 categories:
   - Books and Reading
-  - LiveJournal
   - Music
   - "The 'Zealand"
+tags: 
+- backpacking
+- travelling
+- bagpipes
 
 ---
 Charlotte and I were just wandering around town, checking out secondhand bookshops and having coffee and being exhausted and stuff, and then BAM, the octagon is filled with HORDES of bagpipers. there&#8217;s some kind of competition on today I think.

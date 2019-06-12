@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 706
 categories:
-  - LiveJournal
+  - Updates
 tags:
   - ah! sweet nostalgia
   - food

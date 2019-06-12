@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 409
 categories:
-  - LiveJournal
+  - Updates
 
 ---
 Other people&#8217;s lives live in my phone.

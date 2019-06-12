@@ -8,6 +8,7 @@ post_views_count:
   - 776
 categories:
   - Dublin
+  - Updates
 
 ---
 It&#8217;s official. I&#8217;m finally a Dubliner (or whatever it is that real Dublin people call blow-ins from down the country). I&#8217;ve handed back the keys to my lovely apartment in Limerick and torn up as many Limerick roots as I can, or want to (<a href="http://www.ancor.ie" target="_blank">Ancór</a> and <a href="http://www.limerickrollergirls.com" target="_blank">Limerick Roller Girls</a> 4 LYFE!). I now live in The Smoke that is bigger than the other Smokes on this tiny island. I am cohabiting with Mr. Knows-I&#8217;m-Right and have even ventured to Portmarnock for a walk on the beach.

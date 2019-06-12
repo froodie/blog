@@ -10,6 +10,8 @@ excerpt: >-
   success in D2 Playoffs.
 type: post
 url: /roller-derby-roundup-september/
+categories:
+- Roller Derby
 tags:
 - Roller Derby Roundup
 - Irish Roller Derby News

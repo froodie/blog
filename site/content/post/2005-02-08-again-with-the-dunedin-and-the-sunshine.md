@@ -13,9 +13,12 @@ lj_picture_keyword:
 post_views_count:
   - 310
 categories:
-  - LiveJournal
   - "The 'Zealand"
-
+tags:
+- travelling
+- backpacking
+- dunedin
+- invercargill
 ---
 Yesterday was moderately uneventful, except that when I left the internet cafe there was a massive black cloud obscuring all light, and I eventually got caught in the mother of all downpours. It was great. Thunder, lightening, massive raindrops and rivers instead of streets! I got back to the hostel and was so soaking wet that I put my bag down and ran straight back out again.
   

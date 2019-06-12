@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 722
 categories:
-  - LiveJournal
+  - Updates
 tags:
   - funtimes
 

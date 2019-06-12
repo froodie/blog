@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 340
 categories:
-  - LiveJournal
+
   - "The 'Zealand"
 
 ---

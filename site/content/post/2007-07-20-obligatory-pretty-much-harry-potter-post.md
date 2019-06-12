@@ -14,9 +14,10 @@ post_views_count:
   - 1142
 categories:
   - Books and Reading
-  - LiveJournal
+  - Updates
 tags:
   - writing
+  - harry potter
 
 ---
 In a bizarre turn-up for the books, it’s raining again. I’ve never been particularly bothered by the lack of summery weather before, but there’s something so depressing about the almost inevitable fact that everything this summer is going to get rained out and ruined.

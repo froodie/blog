@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 433
 categories:
-  - LiveJournal
+  - updates
 tags:
   - grammar
 
