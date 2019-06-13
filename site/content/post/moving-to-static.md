@@ -5,6 +5,8 @@ categories = ["Tech"]
 tags = ["programming","blogging","opensource"]
 author = "Sarah"
 featured = "hugonetlify.jpg"
+featuredalt = "combine.fm"
+featuredpath = "date"
 +++
 
 I don’t blog very often. Calling me a sporadic blogger would be overly generous. I’ve probably used Facebook for much of my longer-length bits and pieces over the past few years. On Thursday I’d a day off work and wrote a diatribe about the scourge of “like and share” scams on Facebook. I posted it to Facebook, where it got surprisingly little traction (maybe because I was being patronising, maybe because people only share nonsense on Facebook, not anything useful).
