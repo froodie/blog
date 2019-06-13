@@ -4,7 +4,7 @@ author: JobFairyHQ
 type: post
 date: 2014-09-16T15:46:18+00:00
 url: /twitter-tips-for-recruiters-from-the-jobfairy/
-featured_image: /img/blog/2014/09/jobfairy-624x467.jpg
+featured: 2014/09/jobfairy-624x467.jpg
 post_views_count:
   - 1499
 categories:
@@ -22,9 +22,9 @@ tags:
 ---
 So far, a whole bunch of you have read my first efforts at de-complicating the process of recruiting on twitter in my [How to tweet a job vacancy][1] post. This next post is specifically for recruiters, be they recruitment consultants, agencies or HR departments. Fairy dust incoming!
 
-## Bullhorn Reach<figure id="attachment_1775" aria-describedby="caption-attachment-1775" style="width: 300px" class="wp-caption alignright">
+## Bullhorn Reach
 
-[<img class="size-medium wp-image-1775" src="/img/blog/2014/09/7566910740_8c2fc90b7a-300x199.jpg" alt="" width="300" height="199" srcset="/img/blog/2014/09/7566910740_8c2fc90b7a-300x199.jpg 300w, /img/blog/2014/09/7566910740_8c2fc90b7a.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][2]<figcaption id="caption-attachment-1775" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/faceme/7566910740/" target="_blank">FaceMePLS</a></figcaption></figure> 
+{{< figure src="/img/blog/2014/09/7566910740_8c2fc90b7a.jpg" caption="Image credit: [FaceMePLS on Flickr](https://www.flickr.com/photos/faceme/7566910740/)" >}}
 
 <a href="http://www.bullhornreach.com/" target="_blank">Bullhorn Reach</a> is a godsend for busy recruiters, sure, and a great tool. You can share vacancies via your networks very easily, and you don&#8217;t need to remember to resend your tweet regularly.
 
@@ -48,7 +48,9 @@ Like it or not, Twitter is a two-way communications channel. If you don&#8217;t 
 
 Another pet peeve for this jobfairy is when a recruiter or a recruitment company very obviously decides to &#8220;Do their tweets&#8221; and tweets a pile of jobs at once. When you do this, you&#8217;re minimising the impact of each job that you tweet, and annoying your followers with overload all at once.
 
-<img class="alignright size-medium wp-image-1779" src="/img/blog/2014/09/buffer-app-670x325-300x145.png" alt="buffer app logo a smarter way to share" width="300" height="145" srcset="/img/blog/2014/09/buffer-app-670x325-300x145.png 300w, /img/blog/2014/09/buffer-app-670x325-624x302.png 624w, /img/blog/2014/09/buffer-app-670x325.png 670w" sizes="(max-width: 300px) 100vw, 300px" />Once again there are tools that can come to your rescue. Hootsuite (mentioned above) has a scheduling tool and you can craft your tweets (and facebook and linkedin updates) and decide the best time to share them, spacing them out and maximising their impact. My personal favourite is <a href="http://bufferapp.com" target="_blank">Buffer</a> &#8211; you just add your tweets to a queue and Buffer will tweet them according to your pre-set schedule.
+{{< figure src="/img/blog/2014/09/buffer-app-670x325.png">}}
+
+Once again there are tools that can come to your rescue. Hootsuite (mentioned above) has a scheduling tool and you can craft your tweets (and facebook and linkedin updates) and decide the best time to share them, spacing them out and maximising their impact. My personal favourite is <a href="http://bufferapp.com" target="_blank">Buffer</a> &#8211; you just add your tweets to a queue and Buffer will tweet them according to your pre-set schedule.
 
 ## Understand the value of a retweet
 

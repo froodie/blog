@@ -31,25 +31,25 @@
     <item>
       <title>blogging</title>
       <link>http://localhost:1313/tags/blogging/</link>
-      <pubDate>Sat, 08 Jun 2019 17:37:46 +0000</pubDate>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>open source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
-      <pubDate>Sat, 08 Jun 2019 17:37:46 +0000</pubDate>
+      <title>opensource</title>
+      <link>http://localhost:1313/tags/opensource/</link>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/opensource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
       <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Sat, 08 Jun 2019 17:37:46 +0000</pubDate>
+      <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/programming/</guid>
       <description></description>
@@ -209,20 +209,20 @@
     </item>
     
     <item>
+      <title>Madrid Roller derby</title>
+      <link>http://localhost:1313/tags/madrid-roller-derby/</link>
+      <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/madrid-roller-derby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Waterford City Viqueens</title>
       <link>http://localhost:1313/tags/waterford-city-viqueens/</link>
       <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/waterford-city-viqueens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>irish roller derby</title>
-      <link>http://localhost:1313/tags/irish-roller-derby/</link>
-      <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/irish-roller-derby/</guid>
       <description></description>
     </item>
     
@@ -236,29 +236,11 @@
     </item>
     
     <item>
-      <title>madrid roller derby</title>
-      <link>http://localhost:1313/tags/madrid-roller-derby/</link>
-      <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/madrid-roller-derby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>roller derby</title>
       <link>http://localhost:1313/tags/roller-derby/</link>
       <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/roller-derby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>women in sport</title>
-      <link>http://localhost:1313/tags/women-in-sport/</link>
-      <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/women-in-sport/</guid>
       <description></description>
     </item>
     
@@ -344,20 +326,38 @@
     </item>
     
     <item>
-      <title>rails</title>
-      <link>http://localhost:1313/tags/rails/</link>
-      <pubDate>Sun, 30 Nov 2014 00:03:11 +0000</pubDate>
+      <title>combine.fm</title>
+      <link>http://localhost:1313/tags/combine.fm/</link>
+      <pubDate>Sun, 11 Jan 2015 16:19:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rails/</guid>
+      <guid>http://localhost:1313/tags/combine.fm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rails girls</title>
-      <link>http://localhost:1313/tags/rails-girls/</link>
-      <pubDate>Sun, 30 Nov 2014 00:03:11 +0000</pubDate>
+      <title>interview</title>
+      <link>http://localhost:1313/tags/interview/</link>
+      <pubDate>Sun, 11 Jan 2015 16:19:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rails-girls/</guid>
+      <guid>http://localhost:1313/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jonathan</title>
+      <link>http://localhost:1313/tags/jonathan/</link>
+      <pubDate>Sun, 11 Jan 2015 16:19:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jonathan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>match audio</title>
+      <link>http://localhost:1313/tags/match-audio/</link>
+      <pubDate>Sun, 11 Jan 2015 16:19:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/match-audio/</guid>
       <description></description>
     </item>
     
@@ -569,15 +569,6 @@
     </item>
     
     <item>
-      <title>funtimes</title>
-      <link>http://localhost:1313/tags/funtimes/</link>
-      <pubDate>Tue, 07 Oct 2014 12:55:45 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/funtimes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hulls angels roller dames</title>
       <link>http://localhost:1313/tags/hulls-angels-roller-dames/</link>
       <pubDate>Tue, 07 Oct 2014 12:55:45 +0000</pubDate>
@@ -718,6 +709,15 @@
       <pubDate>Wed, 13 Aug 2014 19:28:45 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/announcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funtimes</title>
+      <link>http://localhost:1313/tags/funtimes/</link>
+      <pubDate>Wed, 13 Aug 2014 19:28:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/funtimes/</guid>
       <description></description>
     </item>
     

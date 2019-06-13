@@ -4,6 +4,7 @@ author: Sarah
 type: post
 date: 2013-02-28T16:42:21+00:00
 url: /whats-in-a-name-2/
+featured: 2013/02/3806115100_d200cdbd1c.jpg
 post_views_count:
   - 1173
 categories:
@@ -13,8 +14,6 @@ tags:
   - rant
 
 ---
-<figure id="attachment_1482" aria-describedby="caption-attachment-1482" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-1482" alt="Image by bump" src="/img/blog/2013/02/3806115100_d200cdbd1c.jpg" width="500" height="333" srcset="/img/blog/2013/02/3806115100_d200cdbd1c.jpg 500w, /img/blog/2013/02/3806115100_d200cdbd1c-300x199.jpg 300w, /img/blog/2013/02/3806115100_d200cdbd1c-450x300.jpg 450w" sizes="(max-width: 500px) 100vw, 500px" />][1]<figcaption id="caption-attachment-1482" class="wp-caption-text">Image by [bump][2]</figcaption></figure> 
-
 It&#8217;s been quite a journey to figure out who I am. On my birth cert, my name is Sarah Ann Ryan. I read Anne of Green Gables as a kid and began insisting on the E at the end of Ann &#8211; why wouldn&#8217;t you? My secondary school operated through the medium of the Irish language and insisted I use the full translation of both of my names &#8211; Sorcha Ní Riain. During university, I used the English version of both of my names Sarah Ryan for most things, and Sorcha Ní Riain for my Irish modules. For the next two years, I was Sarah Ryan.
   
 I decided in 2005 when I returned to Ireland from a year in New Zealand to use my given forename &#8211; Sarah, and the Irish version of my surname &#8211; Ní Riain &#8211; for everything. I changed as much as I could, but I was surprised that NUIG, where I was studying at the time, wouldn&#8217;t accept this. I had to use either the name on my birth cert, or change the whole thing to the Irish translation.
@@ -37,5 +36,8 @@ So there you have it. My name is my name, and now you know why!!!!
 
 P.S., if you want to learn how to pronounce it, it&#8217;s _nee REE-uhn. _The &#8220;ní&#8221; is an indicator that I&#8217;m a girl as opposed to part of the name, so the emphasis is on the REE part!
 
+Featured image by [bump][2] on [Flickr][3]
+
  [1]: /img/blog/2013/02/3806115100_d200cdbd1c.jpg
  [2]: http://www.flickr.com/photos/bump/
+ [3]: http://www.flickr.com

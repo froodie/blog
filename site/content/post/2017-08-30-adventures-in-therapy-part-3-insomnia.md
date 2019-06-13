@@ -7,7 +7,7 @@ date: 2017-08-30T11:02:41.000Z
 excerpt: >-
   A not-so-quick look at some different things that might help in dealing with
   insomnia.
-featured_image: /img/blog/2016/07/Adventures-in-e1467901004972.jpg
+featured: 2016/07/Adventures-in-e1467901004972.jpg
 post_views_count:
   - 1163
 tc-thumb-fld:
@@ -23,10 +23,10 @@ tags:
 
 ---
 ## What I’ve learned about dealing with Insomnia & Anxiety.<figure style="width: 300px" class="wp-caption alignright">
-<img src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" alt="Picture by Basel Mahmoud (from Deviant Art)" width="720" style="display: block" /><figcaption class="wp-caption-text">Picture by Basel Mahmoud (from Deviant Art)</figcaption></figure>
 
 A terrible twosome, these two conditions can go hand in hand, often with Depression rounding out the trifecta. It could be finding it hard to go to sleep because of racing thoughts and elevated heartbeat or just lying awake in the middle the night worrying about everything that has happened, might happen or should have happened. And of course there’s the anxiety of “I should be asleep, I’m not asleep and NOW I AM ANXIOUS.”
 
+{{< figure src="https://img12.deviantart.net/d451/i/2015/121/3/b/insomnia_by_baselmahmoud-d2up1z0.jpg" attr="Picture by Basel Mahmoud (from Deviant Art)" >}}
 I got asked by a pal a couple of months ago for some tips on dealing with insomnia, and it turned into a full length post, so I figured I’d share it. It might help someone, it might not, and I don’t think there’s anything harmful in here. If you’re a sleep professional and something I’ve shared is wrong or dangerous, please let me know!
 
 These are some things I try to do that work for me, and some things I’ve tried that didn’t work for me but may well work for you. I’ll start with the absolute basics that any website or doctor will tell you. You’re probably already doing some or all of them, but they do help, and sometimes it’s good to see everything all laid out.
@@ -121,7 +121,9 @@ I’ve taken them on occasion, usually in the middle of the night when I know I�
 
 ### The Other Stuff
 
-**<img class="alignright size-medium" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Gerrit_Dou_%28Dutch%2C_1613%E2%80%931675%29%2C_Sleeping_Dog%2C_1650._Oil_on_panel.jpg" alt="" />Herbal alternatives like valerian or hops tablets.** This is stuff you can get in any pharmacy. They work for some people by helping to calm you down and work towards making you feel sleepy. They are nowhere near as strong as sleeping tablets and as far as I know, can be used longer term without issue.
+<img class="alignright size-medium" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Gerrit_Dou_%28Dutch%2C_1613%E2%80%931675%29%2C_Sleeping_Dog%2C_1650._Oil_on_panel.jpg" alt="" />
+
+**Herbal alternatives like valerian or hops tablets.** This is stuff you can get in any pharmacy. They work for some people by helping to calm you down and work towards making you feel sleepy. They are nowhere near as strong as sleeping tablets and as far as I know, can be used longer term without issue.
 
 **Melatonin Tablets** Again can be useful to get your sleep cycle into the right gear if you’re really out of whack it’s available on prescription in Ireland, but just get a pal to bring you some from the States. Cheap as chips!
 
@@ -163,11 +165,11 @@ Its tempting – oh so tempting – to lie in. Try to get up at your regular tim
 
 Here is a list of resources/ courses that have helped me (or have been recommended to me) either deal with anxiety to the point that sleeping was easier, or else are directly insomnia and sleep related.
 
-[Insomnia Clinic](http://www.insomniaclinic.ie/about-insomnia-clinic/) – Clinic specialising in insomnia and sleep issues – held in Dublin (or Cavan on request)
+[**Insomnia Clinic**](http://www.insomniaclinic.ie/about-insomnia-clinic/) – Clinic specialising in insomnia and sleep issues – held in Dublin (or Cavan on request). This one was a recommendation, rather than something I've tried myself.
 
 Occupational Therapy – I was referred to an Occupational Therapist to help me work on ways to deal with my insomnia. She helped me learn about Sleep Hygiene and was generally lovely – she rang me out of the blue months after I left her care to see how I was getting on. You might not always get a Suzanne, but an understanding OT can be very helpful!
 
-[WRAP Program](http://mentalhealthrecovery.com/) – I will never stop banging on about the WRAP (Wellness Recovery Action Plan) programme. Basically, it’s a way for you to identify the signs that show you’re starting to struggle and a way to provide a toolkit of ways to help you get yourself back to a healthier place. It’s definitely not a crisis intervention – it’s a longer term framework to help awareness of your own mental health. The website is very American, but I firmly believe this stuff should be taught in secondary school. I got access to this programme via my referral to HSE Mental Health Services in Darndale, so it’s worth talking to your doctor, psychiatrist or occupational therapist.
+[**WRAP Program**](http://mentalhealthrecovery.com/) – I will never stop banging on about the WRAP (Wellness Recovery Action Plan) programme. Basically, it’s a way for you to identify the signs that show you’re starting to struggle and a way to provide a toolkit of ways to help you get yourself back to a healthier place. It’s definitely not a crisis intervention – it’s a longer term framework to help awareness of your own mental health. The website is very American, but I firmly believe this stuff should be taught in secondary school. I got access to this programme via my referral to HSE Mental Health Services in Darndale, so it’s worth talking to your doctor, psychiatrist or occupational therapist.
 
 The other one was a CBT (cognitive behavioural therapy) based course I did (again HSE based). This one was awesome and helped me with how to deal with anxiety itself (what triggers it, what to do with the thoughts when they happen etc). It might be worth chatting with your doc to see if there’s anything local you can get referred to.
 

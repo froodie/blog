@@ -6,9 +6,8 @@ categories:
 tags: 
 - facebook
 - social media
+featured: "avoid-fb-scams.jpg"
 ---
-![avoid fb scams](/img/blog/avoid-fb-scams.jpg)
-
 I’ve been using Facebook for far too many years now, and one thing that is perennial is people sharing competitions in the hope that they will be one of the lucky ones that will win a car or a holiday or a brand new iPhone. However, a lot of these competitions are fake and are aimed at folks who may not be savvy about how to spot a scam. Here are my top tips for things to check BEFORE you click like or share!
 
 1. Check the page that's hosting the competition. Good things to look for:

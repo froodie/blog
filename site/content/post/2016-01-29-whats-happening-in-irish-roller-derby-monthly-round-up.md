@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2016-01-29T16:26:02+00:00
 url: /whats-happening-in-irish-roller-derby-monthly-round-up/
-featured_image: /img/blog/2016/01/Roller-Derby-Roundup.png
+featured: 2016/01/Roller-Derby-Roundup.png
 post_views_count:
   - 1682
 tc-thumb-fld:

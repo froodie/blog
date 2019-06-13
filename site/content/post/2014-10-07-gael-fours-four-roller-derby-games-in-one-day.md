@@ -5,18 +5,16 @@ type: post
 date: 2014-10-07T12:55:45+00:00
 excerpt: "If you've ever been curious about Roller Derby, come to the Shoreline Leisure Centre in Bray this Saturday. You'll see four games - including a co-ed and a men's game!"
 url: /gael-fours-four-roller-derby-games-in-one-day/
-featured_image: /img/blog/2014/10/banner-624x230.jpg
+featured: 2014/10/banner-624x230.jpg
 post_views_count:
   - 1288
 categories:
   - Dublin
   - Roller Derby
 tags:
-  - adventures
   - canny belters
   - Dublin Roller Derby
   - East Coast Cyclones
-  - funtimes
   - hulls angels roller dames
   - "men's roller derby"
   - merby

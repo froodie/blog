@@ -4,6 +4,7 @@ author: JobFairyHQ
 type: post
 date: 2014-08-18T14:53:38+00:00
 url: /how-to-tweet-a-job-vacancy-by-a-jobfairy/
+featured: 2014/08/9224605544_1aa3021c96.jpg
 post_views_count:
   - 1511
 categories:
@@ -19,8 +20,6 @@ tags:
   - twitter
 
 ---
-<figure id="attachment_1760" aria-describedby="caption-attachment-1760" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1760 " src="/img/blog/2014/08/9224605544_1aa3021c96-300x193.jpg" alt="" width="300" height="193" srcset="/img/blog/2014/08/9224605544_1aa3021c96-300x193.jpg 300w, /img/blog/2014/08/9224605544_1aa3021c96.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1760" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/juliewalraven/9224605544/" target="_blank">Julie Walraven</a></figcaption></figure> 
-
 I run the @JobfairyHQ twitter account. I have over 3,400 followers &#8211; mostly a mixture of jobseekers, recruiters, and companies I&#8217;ve retweeted who follow me to be nice.
   
 I try to retweet as many Irish jobs as I possibly can. How I do it is to search twitter for tweets tagged with #jobfairy or #irishjobs &#8211; then I run through them and retweet the ones that fit my criteria.
@@ -67,10 +66,8 @@ Don&#8217;t tweet it too often though, you&#8217;ll run the risk of alienating y
 
 If organic methods of promotion aren&#8217;t working, then you could try using the new promoted tweet feature. I haven&#8217;t ever used it myself, but you can focus your tweet based on location, interest, username and a number of other criteria.
 
-&nbsp;
-
 I hope you gained some insight from this post, and all the very best of luck in your search for someone brilliant. If you think I might be that person, I&#8217;m looking for work in the digital marketing or community management line &#8211; so feel free to contact me via twitter on @jobfairyHQ
 
-&nbsp;
+Featured image: [Julie Walraven](https://www.flickr.com/photos/juliewalraven/9224605544/)
 
  [1]: /img/blog/2014/08/9224605544_1aa3021c96.jpg

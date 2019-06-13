@@ -4,13 +4,12 @@ author: Sarah
 type: post
 date: 2014-08-13T19:28:45+00:00
 url: /roller-derby-tournament-this-weekend/
-featured_image: /img/blog/2014/08/Queen-Bee-624x230.jpg
+featured: 2014/08/Queen-Bee.jpg
 post_views_count:
   - 1102
 categories:
   - Roller Derby
 tags:
-  - adventures
   - announcing
   - Belfast City Rockets
   - Boom Town Rollers
@@ -33,12 +32,14 @@ The format of the tournament will be ten short qualifiers played on Saturday and
 
 The event will be taking place at the Shoreline Leisure Centre, Greystones &#8211; and the all-important afterparty will be on at the Harbour Bar. It&#8217;s gonna be mega!
 
-<span style="line-height: 1.714285714; font-size: 1rem;">Tickets for the whole weekend cost just €25, or you can go for a single day for €15<br /> </span>You can buy online from <a href="http://queenbee.brownpapertickets.com/" target="_blank">Brown Paper Tickets</a> &#8211; and if you&#8217;re bringing the kids, under 12s are FREE!  <a href="https://www.facebook.com/events/818860394811078/" target="_blank">The event&#8217;s details are all up on facebook too!</a>
+Tickets for the whole weekend cost just €25, or you can go for a single day for €15.
+
+You can buy online from <a href="http://queenbee.brownpapertickets.com/" target="_blank">Brown Paper Tickets</a> &#8211; and if you&#8217;re bringing the kids, under 12s are FREE!  <a href="https://www.facebook.com/events/818860394811078/" target="_blank">The event&#8217;s details are all up on facebook too!</a>
 
 Saturday Doors open 11:30am to the public.
   
 Sunday Doors open 10:00am
 
-<span style="line-height: 1.714285714; font-size: 1rem;">If I haven&#8217;t been fired yet, I&#8217;ll be part of the awesome announcer line-up! See you there!</span>
+If I haven&#8217;t been fired yet, I&#8217;ll be part of the awesome announcer line-up! See you there!</span>
 
 &nbsp;

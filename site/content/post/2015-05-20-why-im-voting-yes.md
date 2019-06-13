@@ -4,7 +4,7 @@ author: Sarah
 type: post
 date: 2015-05-20T21:21:29+00:00
 url: /why-im-voting-yes/
-featured_image: /img/blog/2015/05/equality-624x468.jpg
+featured: 2015/05/equality-624x468.jpg
 post_views_count:
   - 2104
 tc-thumb-fld:

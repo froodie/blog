@@ -4,6 +4,7 @@ author: Sarah
 type: post
 date: 2013-03-01T21:16:00+00:00
 url: /the-good-ship-jobseeker/
+featured: 2013/03/wpid-SarahNiRiainPoster.jpg
 post_views_count:
   - 855
 categories:
@@ -18,7 +19,7 @@ tags:
   - working
 
 ---
-<figure style="width: 649px" class="wp-caption alignnone"><img class="size-full" title="SarahNiRiainPoster.jpg" alt="image" src="/img/blog/2013/03/wpid-SarahNiRiainPoster.jpg" width="649" height="356" /><figcaption class="wp-caption-text">I sent this poster off with a recent application. I&#8217;ll let you know how it goes 🙂</figcaption></figure> 
+I sent this poster off with a recent application. I&#8217;ll let you know how it goes 🙂
 
 Applying for a job? There are many of us in the job application boat at the moment, and some are dealing with it better than others. I find it absolutely gut-wrenching to put myself forward to be accepted or rejected. I absolutely hate doing it, but I&#8217;ve been out of work now since I took redundancy in September, so it&#8217;s time to pimp myself out to prospective employers.
 

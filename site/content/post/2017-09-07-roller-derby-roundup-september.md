@@ -15,9 +15,8 @@ categories:
 tags:
 - Roller Derby Roundup
 - Irish Roller Derby News
+featured: 2017/09/Roller-Derby-Roundup-Header-Sept17.png
 ---
-![Roller Derby Roundup September](/img/blog/2017/09/Roller-Derby-Roundup-Header-Sept17.png)
-
 It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
 
 ## In this edition

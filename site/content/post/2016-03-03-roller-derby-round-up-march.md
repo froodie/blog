@@ -5,7 +5,7 @@ type: post
 date: 2016-03-03T00:06:38+00:00
 excerpt: "After a very busy February, things are a little quieter this month, but there's still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it's from there we'll take a look at the spotlight game of the month."
 url: /roller-derby-round-up-march/
-featured_image: /img/blog/2016/03/Roller-Derby-Roundup-March.jpg
+featured: 2016/03/Roller-Derby-Roundup-March.jpg
 post_views_count:
   - 2085
 tc-thumb-fld:
@@ -17,15 +17,13 @@ tags:
   - Cork City Firebirds
   - Dublin Roller Derby
   - East Coast Cyclones
-  - irish roller derby
   - limerick roller derby
-  - madrid roller derby
+  - Madrid Roller derby
   - roller derby
   - Waterford City Viqueens
-  - women in sport
+
 
 ---
-![Roller Derby Roundup - March 2016](/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg)
 After a very busy February, things are a little quieter this month, but there&#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&#8217;s from there we&#8217;ll take a look at the spotlight game of the month.
 
 ## Spotlight Game: LRD A vs DRD A

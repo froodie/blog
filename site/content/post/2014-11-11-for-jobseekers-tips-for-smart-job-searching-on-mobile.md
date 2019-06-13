@@ -4,7 +4,8 @@ author: JobFairyHQ
 type: post
 date: 2014-11-11T13:21:29+00:00
 url: /for-jobseekers-tips-for-smart-job-searching-on-mobile/
-featured_image: /img/blog/2014/10/6756420231_7d45a5abdf1.jpg
+featured: 2014/10/6756420231_7d45a5abdf1.jpg
+featuredalt: "Maryland GovPics"
 post_views_count:
   - 1919
 categories:
@@ -24,25 +25,19 @@ tags:
   - social
 
 ---
-<figure id="attachment_1826" aria-describedby="caption-attachment-1826" style="width: 300px" class="wp-caption alignright">[<img class="size-medium wp-image-1826" src="/img/blog/2014/10/6756420231_7d45a5abdf1-300x199.jpg" alt="By: Maryland GovPics" width="300" height="199" srcset="/img/blog/2014/10/6756420231_7d45a5abdf1-300x199.jpg 300w, /img/blog/2014/10/6756420231_7d45a5abdf1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][1]<figcaption id="caption-attachment-1826" class="wp-caption-text">By: <a href="https://www.flickr.com/photos/mdgovpics/6756420231/" target="_blank">Maryland GovPics</a></figcaption></figure> 
-
 Recruitment is changing. How people search for their jobs is changing.
 
 > Half of all job searches carried out on Indeed.com today will be on mobile devices (a trend that’s risen by 17% in the last year alone). In fact, across the globe, the mobile job search rate is as high as 83% in some countries. &#8211; See more at: <a href="http://www.socialtalent.co/blog/mobile-job-search#sthash.P9vfAvmR.dpuf" target="_blank">socialtalent.co</a>
 
-&nbsp;
 
 Today I&#8217;ll be looking at mobile job searches from the point of view of the jobseeker. Any recruiter worth their salt is keeping up with the trends in job searching and will be trying to make your life as a job seeker easier.
   
-[<img class="aligncenter" src="http://about.beyond.com/Content/Resources/images/MobileRecruitment_INFOGRAPHIC_Nov_2011.jpg" alt="" width="878" height="956" />][2]
-
-&nbsp;
-
+{{< figure src="https://infographicjournal.com/images/mobile-recruitment.jpg" caption="Source: [beyond.com](http://beyond.com)" >}}
 Some companies, such as Indeed, have end-to-end apps where a jobseeker can search and apply all in once place &#8211; but that&#8217;s not your only option!
 
 Don&#8217;t limit yourself to just one app or site &#8211; here are some tips to keep your mobile job searching productive, effective and contained.
 
-#### Your Options
+### Your Options
 
 **Job boards** &#8211; some of these will have mobile optimised websites, some will have their own apps that you&#8217;ll need to download.  Start with the ones you already have an account with, and broaden your reach from there.
 
@@ -56,7 +51,9 @@ If you stop your search every time you find something that might suit in order t
 
 #### Broaden your search
 
-[<img class="alignright size-medium wp-image-1838" src="/img/blog/2014/11/Twitter-search-168x300.png" alt="Twitter search" width="168" height="300" srcset="/img/blog/2014/11/Twitter-search-168x300.png 168w, /img/blog/2014/11/Twitter-search-576x1024.png 576w, /img/blog/2014/11/Twitter-search-624x1109.png 624w, /img/blog/2014/11/Twitter-search.png 1080w" sizes="(max-width: 168px) 100vw, 168px" />][3]Don&#8217;t just use a single search term. Not everyone is going to use the same naming conventions as you do for things. Broaden your search for other search terms relative to what you&#8217;re looking for, especially with hashtags.
+![Twitter Search](/img/blog/2014/11/Twitter-search-640x480.png)
+
+Don&#8217;t just use a single search term. Not everyone is going to use the same naming conventions as you do for things. Broaden your search for other search terms relative to what you&#8217;re looking for, especially with hashtags.
 
 For example if you&#8217;re looking for a job as a mechanical engineer, you could search for &#8220;mechanical engineer&#8221;, &#8220;mechanical engineering&#8221;, &#8220;mech eng&#8221; and a few other variables.
 
@@ -68,9 +65,10 @@ If you&#8217;re not planning on relocating for work, refine your search to apply
 
 If you&#8217;re anything like me, formatting any document nicely on mobile is a bridge too far. If you want to apply via mobile, consider keeping a few ready-formatted cover letters locally or on your iCloud or Google Drive. That way, you can keep the formatting and just edit the content as needed before you send them in with your application. The same applies to your resumé or CV &#8211; keep a few variations to hand and then all you&#8217;ll have to do is some minor tweaking before you send it in with your application.
 
-&nbsp;
 
 As someone who still does most of her searching via desktop &#8211; only bookmarking via mobile when I happen across something, I&#8217;d love to hear some more tips from those of you who use your mobile devices for job searching.
+
+Featured Image:  [Maryland GovPics](https://www.flickr.com/photos/mdgovpics/6756420231/)
 
  [1]: /img/blog/2014/10/6756420231_7d45a5abdf1.jpg
  [2]: http://about.beyond.com/infographics/mobile-job-search-apps
