@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Sarah on niria.in</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About Sarah on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Oct 2012 16:23:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Hugo</title>
+      <link>http://localhost:1313/about/_index.pl/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/_index.pl/</guid>
+      <description>Hugo to statyczny silnik strony napisany w Go.
+Korzysta z różnych projektów open source, w tym:
+ Cobra Viper J Walter Weatherman Cast  Dowiedz się więcej i wesprzyj na GitHub.
+Ustawiać Kilka ciekawych faktów na temat Hugo:
+ Wbudowany Go Luźno zainspirowany przez Jekyll Głównie opracowany przez spf13 w pociągu podczas podróży do iz Manhattanu. Zakodowane w Vim przy użyciu spf13-vim  Masz pytania lub sugestie? Zapraszam do otwarcia problemu na GitHub lub zapytaj mnie na Twitterze.</description>
+    </item>
+    
+    <item>
+      <title>À propos de Hugo</title>
+      <link>http://localhost:1313/about/_index.fr/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/_index.fr/</guid>
+      <description>Hugo est un moteur de site statique écrit en Go.
+Il utilise une variété de projets open source, notamment:
+ Cobra Viper J Walter Weatherman Cast  En savoir plus et contribuer sur GitHub.
+Installer Quelques faits amusants sur Hugo:
+ Construit en Go Librement inspiré par Jekyll Principalement développé par spf13 dans le train lors d&amp;rsquo;un trajet aller-retour pour Manhattan. Codé dans Vim en utilisant spf13-vim  Vous avez des questions ou des suggestions?</description>
+    </item>
+    
+  </channel>
+</rss>

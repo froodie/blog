@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on niria.in</title>
+    <link>http://localhost:1313/tags/learning/</link>
+    <description>Recent content in learning on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Sep 2013 09:27:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On being a Newbie Roller Derby Announcer</title>
+      <link>http://localhost:1313/on-being-a-newbie-roller-derby-announcer/</link>
+      <pubDate>Tue, 03 Sep 2013 09:27:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/on-being-a-newbie-roller-derby-announcer/</guid>
+      <description>Picture it. You&amp;#8217;re at the derby game. There are a couple of hundred punters in the audience, many of whom have never seen a bout before. You have a microphone. The sound is muffled, and the audience can hardly hear you over the music. Ten players and seven referees are whizzing around a track at speed, Players are manoeuvring, blocking, passing and falling, then a referee signals and three players are sent to the box for different infringements &amp;#8211; play continues.</description>
+    </item>
+    
+  </channel>
+</rss>

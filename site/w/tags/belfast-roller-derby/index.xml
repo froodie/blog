@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belfast Roller Derby on niria.in</title>
+    <link>http://localhost:1313/tags/belfast-roller-derby/</link>
+    <description>Recent content in Belfast Roller Derby on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Mar 2016 00:06:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/belfast-roller-derby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roller Derby Round-Up: March</title>
+      <link>http://localhost:1313/roller-derby-round-up-march/</link>
+      <pubDate>Thu, 03 Mar 2016 00:06:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/roller-derby-round-up-march/</guid>
+      <description>After a very busy February, things are a little quieter this month, but there&amp;#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&amp;#8217;s from there we&amp;#8217;ll take a look at the spotlight game of the month.
+Spotlight Game: LRD A vs DRD A On Saturday 12th March, Limerick Roller Derby is hosting Dublin Roller Derby A team. In Greystones.</description>
+    </item>
+    
+    <item>
+      <title>What’s happening in Irish Roller Derby? Monthly Round-Up</title>
+      <link>http://localhost:1313/whats-happening-in-irish-roller-derby-monthly-round-up/</link>
+      <pubDate>Fri, 29 Jan 2016 16:26:02 +0000</pubDate>
+      
+      <guid>http://localhost:1313/whats-happening-in-irish-roller-derby-monthly-round-up/</guid>
+      <description>It&amp;#8217;s noses to the grindstone for most of the leagues in Ireland over the next few months &amp;#8211; lots of training, recruitment, bootcamps and scrimmages around the country. Here&amp;#8217;s a quick round up of what&amp;#8217;s happening in February!DRD vs BRD &amp;#8211; January 30th &amp;#8211; Greystones
+Dublin VS Belfast &amp;#8211; January 30th &amp;#8211; Shoreline Leisure Centre, Greystones. My top Derby pick for this month is actually in January, and it&amp;#8217;s tomorrow!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irish Roller Derby News on niria.in</title>
+    <link>http://localhost:1313/tags/irish-roller-derby-news/</link>
+    <description>Recent content in Irish Roller Derby News on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/irish-roller-derby-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roller Derby Roundup – September</title>
+      <link>http://localhost:1313/roller-derby-roundup-september/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/roller-derby-roundup-september/</guid>
+      <description>It might be a year late, but the Roller Derby roundup for September is here. Thanks so much to everyone who let me know what their leagues are up to! Let me know if I’ve missed anything and I’ll do my best to update.
+In this edition  Spotlight on DRD’s D2 triumph Shoutouts to Officials on Tour Upcoming Games Events Recruitment  Spotlight It’s a pretty quiet month on the home game front so rather than doing a preview, I’m just going to review what was one of the biggest events ever in Irish roller derby, DRD Charter heading to D2 Playoffs/Champs in Pittsburgh.</description>
+    </item>
+    
+  </channel>
+</rss>

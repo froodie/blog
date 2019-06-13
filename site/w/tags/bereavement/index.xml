@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bereavement on niria.in</title>
+    <link>http://localhost:1313/tags/bereavement/</link>
+    <description>Recent content in bereavement on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Nov 2004 21:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/bereavement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So…</title>
+      <link>http://localhost:1313/so-4/</link>
+      <pubDate>Wed, 17 Nov 2004 21:52:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/so-4/</guid>
+      <description>This morning I decided to take a sickie from work because I was tired and not feeling the best. So I called in sick, changed my doctor&amp;#8217;s appointment to today and crawled back to bed. Whereupon the phone rang. It was my dad, telling me that my grandfather had died. I still don&amp;#8217;t know when exactly. And I&amp;#8217;m not exactly sure of the details except that he was out on the farm, picking apples on a lovely November day.</description>
+    </item>
+    
+  </channel>
+</rss>

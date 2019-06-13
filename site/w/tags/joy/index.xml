@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joy on niria.in</title>
+    <link>http://localhost:1313/tags/joy/</link>
+    <description>Recent content in joy on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Jan 2005 23:45:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/joy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hooray for Perfect Days</title>
+      <link>http://localhost:1313/hooray-for-perfect-days/</link>
+      <pubDate>Tue, 11 Jan 2005 23:45:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hooray-for-perfect-days/</guid>
+      <description>Today was just such a one.
+Waking up early but not too early. Luxuriating in bed for just a little bit. Having a shower, a proper shower with gushing jets of not too hot, not too cold water. Strolling to the French Bakehouse for breakfast and up to Captain Ron&amp;#8217;s for coffee. Making a new friend or two. Deciding to go for a stroll Just Like That. Finding out how much it costs to rent an MX5 for a day and pretend to be Austin Powers(not that much really).</description>
+    </item>
+    
+  </channel>
+</rss>

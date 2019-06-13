@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bagpipes on niria.in</title>
+    <link>http://localhost:1313/tags/bagpipes/</link>
+    <description>Recent content in bagpipes on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Feb 2005 17:46:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/bagpipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Holy Bagpipes Batman</title>
+      <link>http://localhost:1313/holy-bagpipes-batman/</link>
+      <pubDate>Sat, 12 Feb 2005 17:46:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/holy-bagpipes-batman/</guid>
+      <description>Charlotte and I were just wandering around town, checking out secondhand bookshops and having coffee and being exhausted and stuff, and then BAM, the octagon is filled with HORDES of bagpipers. there&amp;#8217;s some kind of competition on today I think.
+THe best bit was at the end where about eight bands lined up together and all marched down George St playing Scotland the Brave. Stirring indeed. No matter who you are or where you&amp;#8217;re from, a bazillion bagpipers going right past your ear is an unforgettable experience.</description>
+    </item>
+    
+  </channel>
+</rss>

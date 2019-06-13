@@ -1,27 +1,16 @@
----
-title: Match Audio – a solution to a problem you didn’t know you had.
-author: Sarah
-type: post
-date: 2015-01-11T16:19:38+00:00
-excerpt: Match Audio is a new music-sharing app created by Jonathan Cremin aka @kudoz aka my boyfriend. I take a look at the site and what it does, and chat to him about it.
-url: /match-audio-a-solution-to-a-problem-you-didnt-know-you-had/
-featured_image: /img/blog/2015/01/logo.jpg
-post_views_count:
-  - 2504
-tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1897";s:11:"_thumb_type";s:5:"thumb";}'
-categories:
-  - Geekery
-  - Music
-  - Tech
-tags:
-  - match.audio
-  - music sharing
-  - music subscription
-  - software
-  - tech
-
----
++++
+author = "Sarah"
+categories = ["Geekery","Music","Tech"]
+date = "2015-01-11T16:19:38+00:00"
+description = ""
+featured = "combinefm.png"
+featuredalt = "combine.fm"
+featuredpath = "date"
+linktitle = "niria.in| Match Audio"
+title = "Match Audio – a solution to a problem you didn’t know you had"
+type = "post"
+tags = ["match audio","interview","jonathan","combine.fm"]
++++
 _<a href="http://match.audio" target="_blank">Match Audio</a> is a new music-sharing app created by Jonathan Cremin aka <a href="http://twitter.com/kudoz" target="_blank">@kudoz</a> aka my boyfriend. I take a look at how to use match.audio and why &#8211; and chat with the dev about his plans for its future._
 
 With more and more people turning to subscription sites to explore new music, the way we listen to and consume music has undergone another radical change. It’s easier to find and it’s easier to share. Fewer and fewer speedbumps prevent making music accessible to new audiences.

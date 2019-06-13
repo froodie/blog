@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on niria.in</title>
+    <link>http://localhost:1313/tags/tech/</link>
+    <description>Recent content in tech on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Nov 2014 00:03:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Look mom, I made an app! – Rails Girls Dublin</title>
+      <link>http://localhost:1313/look-mom-i-made-an-app-rails-girls-dublin/</link>
+      <pubDate>Sun, 30 Nov 2014 00:03:11 +0000</pubDate>
+      
+      <guid>http://localhost:1313/look-mom-i-made-an-app-rails-girls-dublin/</guid>
+      <description>[][1]Happy Rails Girls (and boys) after the workshop Photo by Serena Fritsch I&amp;#8217;m someone who has enjoyed the company of programmers for years. I consider myself relatively tech-savvy, and have played around with building simple webpages and hacking on macros using visual basic. I&amp;#8217;ve never managed to make the leap to actually “learning how to code”, despite tipping my toe in the water now and then.
+I finally took the plunge today by attending a Rails Girls workshop in Dublin.</description>
+    </item>
+    
+  </channel>
+</rss>

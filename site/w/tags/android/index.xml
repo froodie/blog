@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on niria.in</title>
+    <link>http://localhost:1313/tags/android/</link>
+    <description>Recent content in android on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Nov 2014 13:21:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>For Jobseekers: Tips for Smart Job Searching on Mobile</title>
+      <link>http://localhost:1313/for-jobseekers-tips-for-smart-job-searching-on-mobile/</link>
+      <pubDate>Tue, 11 Nov 2014 13:21:29 +0000</pubDate>
+      
+      <guid>http://localhost:1313/for-jobseekers-tips-for-smart-job-searching-on-mobile/</guid>
+      <description>[][1]By: Maryland GovPics Recruitment is changing. How people search for their jobs is changing.
+ Half of all job searches carried out on Indeed.com today will be on mobile devices (a trend that’s risen by 17% in the last year alone). In fact, across the globe, the mobile job search rate is as high as 83% in some countries. &amp;#8211; See more at: socialtalent.co
+ &amp;nbsp;
+Today I&amp;#8217;ll be looking at mobile job searches from the point of view of the jobseeker.</description>
+    </item>
+    
+    <item>
+      <title>Getting around Dublin: three essential Android apps…</title>
+      <link>http://localhost:1313/getting-around-dublin-three-essential-android-apps/</link>
+      <pubDate>Tue, 06 Nov 2012 12:51:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/getting-around-dublin-three-essential-android-apps/</guid>
+      <description>So, you’ve just moved to Dublin and you’re trying to make sense of the public transport system. Don’t bother. The two Luas lines, the bus system and the Dart and rail systems are all pretty much independent of each other.Leap Card
+What I recommend you do &amp;#8211; get yourself a Leap card. The fares are a little cheaper, you don’t have to worry about carrying cash, and it’ll work on all public transport.</description>
+    </item>
+    
+  </channel>
+</rss>

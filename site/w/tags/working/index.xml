@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>working on niria.in</title>
+    <link>http://localhost:1313/tags/working/</link>
+    <description>Recent content in working on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Mar 2013 21:16:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/working/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Good Ship Jobseeker – To intern or not to intern?</title>
+      <link>http://localhost:1313/the-good-ship-jobseeker/</link>
+      <pubDate>Fri, 01 Mar 2013 21:16:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/the-good-ship-jobseeker/</guid>
+      <description>I sent this poster off with a recent application. I&amp;#8217;ll let you know how it goes 🙂 Applying for a job? There are many of us in the job application boat at the moment, and some are dealing with it better than others. I find it absolutely gut-wrenching to put myself forward to be accepted or rejected. I absolutely hate doing it, but I&amp;#8217;ve been out of work now since I took redundancy in September, so it&amp;#8217;s time to pimp myself out to prospective employers.</description>
+    </item>
+    
+  </channel>
+</rss>

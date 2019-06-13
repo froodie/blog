@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photos on niria.in</title>
+    <link>http://localhost:1313/tags/photos/</link>
+    <description>Recent content in photos on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 Feb 2010 09:21:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hangover?</title>
+      <link>http://localhost:1313/hangover/</link>
+      <pubDate>Sun, 07 Feb 2010 09:21:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hangover/</guid>
+      <description>Hangover?, originally uploaded by La Froodie.  I took this pic last summer at my parents&amp;#8217; house. My brother had had a party the night before, and clearly decided to be responsible about the recycling. Or else there&amp;#8217;s a better story. Any ideas?</description>
+    </item>
+    
+    <item>
+      <title>Reflection, by Sarah</title>
+      <link>http://localhost:1313/reflection-by-sarah/</link>
+      <pubDate>Wed, 03 Jun 2009 09:09:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reflection-by-sarah/</guid>
+      <description>Reflection, by Sarah, originally uploaded by colmmacc.  Colmmacc is really as good at cropping photos as he is at taking them. We were driving around Galway at the weekend, and I was snapping away as he drove. He&amp;#8217;s put some of my snaps up on his flickr, and I&amp;#8217;m surprised at how well some of them turned out. Maybe I should buy a *cough* SLR *cough*</description>
+    </item>
+    
+    <item>
+      <title>FClock</title>
+      <link>http://localhost:1313/fclock/</link>
+      <pubDate>Mon, 18 May 2009 06:12:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fclock/</guid>
+      <description>FClock, originally uploaded by La Froodie.  I&amp;#8217;ve been on a real &amp;#8216;making crap&amp;#8217; kick lately. I&amp;#8217;ve not felt like buying stuff, and am really getting into making gifts for people. This is the last one I made, for le boy&amp;#8217;s birthday, which is on Thursday.
+He seems to like it too, which I was sort of hoping for, given his penchant for geeky clocks and the colour green. In fact, I enjoyed making this so much that I&amp;#8217;m tempted to buy a bunch of mechanisms on ebay and go crazy making clocks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media on niria.in</title>
+    <link>http://localhost:1313/tags/social-media/</link>
+    <description>Recent content in social media on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Jun 2019 20:26:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A guide to Facebook Competitions and how to avoid the scams</title>
+      <link>http://localhost:1313/post/a-guide-to-facebook-competitions-and-how-to-avoid-the-scams/</link>
+      <pubDate>Sat, 08 Jun 2019 20:26:09 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/a-guide-to-facebook-competitions-and-how-to-avoid-the-scams/</guid>
+      <description>I’ve been using Facebook for far too many years now, and one thing that is perennial is people sharing competitions in the hope that they will be one of the lucky ones that will win a car or a holiday or a brand new iPhone. However, a lot of these competitions are fake and are aimed at folks who may not be savvy about how to spot a scam. Here are my top tips for things to check BEFORE you click like or share!</description>
+    </item>
+    
+  </channel>
+</rss>

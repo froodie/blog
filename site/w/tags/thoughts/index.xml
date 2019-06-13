@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thoughts on niria.in</title>
+    <link>http://localhost:1313/tags/thoughts/</link>
+    <description>Recent content in thoughts on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Feb 2006 23:44:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>St. Valentine</title>
+      <link>http://localhost:1313/902/</link>
+      <pubDate>Tue, 14 Feb 2006 23:44:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/902/</guid>
+      <description>On this day for lovers, this day of roses and kisses, i raise a glass to those of my acquaintance who are blessed with someone who loves them back. HOORAY!</description>
+    </item>
+    
+  </channel>
+</rss>

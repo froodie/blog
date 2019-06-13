@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Savita on niria.in</title>
+    <link>http://localhost:1313/tags/savita/</link>
+    <description>Recent content in Savita on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Nov 2012 15:36:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/savita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The paper of note took note.</title>
+      <link>http://localhost:1313/the-paper-of-note-took-note/</link>
+      <pubDate>Tue, 20 Nov 2012 15:36:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/the-paper-of-note-took-note/</guid>
+      <description>For the last week, I&amp;#8217;ve been equally upset and outraged by the case of Savita Halappanavar, who died in Galway on October 28th after contracting septicaemia following a drawn-out miscarriage. The medical team waited until the foetal heart stopped beating before removing the foetus, even though risk of infection was extremely high. I&amp;#8217;ve contacted my local TDs (only one had the decency to respond so far) and stood outside the Dáil with crowds of people twice.</description>
+    </item>
+    
+  </channel>
+</rss>

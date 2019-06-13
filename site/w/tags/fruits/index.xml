@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fruits on niria.in</title>
+    <link>http://localhost:1313/tags/fruits/</link>
+    <description>Recent content in fruits on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Feb 2005 13:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/fruits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elusive Dunedin</title>
+      <link>http://localhost:1313/672/</link>
+      <pubDate>Thu, 10 Feb 2005 13:32:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/672/</guid>
+      <description>I can&amp;#8217;t quite seem to get a handle on Dunedin. I&amp;#8217;m not sure why, but it sort of eludes me. Maybe it&amp;#8217;s because most of the students aren&amp;#8217;t here, and there are usually around 25,000 of them? I&amp;#8217;m not sure, but I think I could possibly like this town, once I get the hang of it.
+Granted, it took me a lot longer than four days to get the hang of Auckland, but this place is so much smaller.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -25,7 +25,8 @@ tags:
   - women in sport
 
 ---
-<img class="size-large wp-image-1972 aligncenter" src="/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg" alt="Roller Derby Roundup March" width="1024" height="405" srcset="/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg 1024w, /img/blog/2016/03/Roller-Derby-Roundup-March-300x119.jpg 300w, /img/blog/2016/03/Roller-Derby-Roundup-March-768x304.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />After a very busy February, things are a little quieter this month, but there&#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&#8217;s from there we&#8217;ll take a look at the spotlight game of the month.
+![Roller Derby Roundup - March 2016](/img/blog/2016/03/Roller-Derby-Roundup-March-1024x405.jpg)
+After a very busy February, things are a little quieter this month, but there&#8217;s still plenty to whet your Derby appetite. Most of the action is concentrated around the weekend of the 11/12th and it&#8217;s from there we&#8217;ll take a look at the spotlight game of the month.
 
 ## Spotlight Game: LRD A vs DRD A
 

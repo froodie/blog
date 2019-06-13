@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chinese new year on niria.in</title>
+    <link>http://localhost:1313/tags/chinese-new-year/</link>
+    <description>Recent content in chinese new year on niria.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Feb 2005 13:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/chinese-new-year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Chinese New Year!</title>
+      <link>http://localhost:1313/happy-chinese-new-year/</link>
+      <pubDate>Wed, 09 Feb 2005 13:04:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/happy-chinese-new-year/</guid>
+      <description>I completely forgot about the pancakes yesterday, but last night at midnight there were the coolest fireworks to celebrate Chinese New Year. It&amp;#8217;s good that NZ sometimes remembers that it&amp;#8217;s closer to Asia than Europe. Also yesterday I wandered around the Museum, which was partially closed due to flooding from the excellent rains the day before. As were quite a few shops in the city centre.
+I would say more, but I&amp;#8217;m sure you don&amp;#8217;t care that it was a little bit chilly last night, that I had tuna and cheese on toast for dinner or that I did my laundry and watched survivor.</description>
+    </item>
+    
+  </channel>
+</rss>
