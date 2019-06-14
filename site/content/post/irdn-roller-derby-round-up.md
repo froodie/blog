@@ -1,10 +1,16 @@
 ---
 title: IRDN Roller Derby Round Up
-date: 06/14/2019 11:00 AM
+date: "2019-06-14"
+featured: irdn-june.png
+categories:
+- Roller Derby
+tags:
+- roller derby round up
+- roller derby
+- irish roller derby news
+- irdn
 ---
-![undefined](/img/blog/irdn-june.png)
-
-It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games! There's something happening every single week! (Let's not even talk about the majesty of the Dublin Roller Derby/ Calgary/ CCR games on the 8th which was absolutely amazing - we get a chance to watch top-tier derby right here in Ireland!
+It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games! There's something happening every single week! And that's not even talking about the majesty of the Dublin Roller Derby/ Calgary/ CCR games on the 8th which was absolutely amazing - we got a chance to watch top-tier derby right here in Ireland and it was utterly brilliant!
 
 # Upcoming Games
 
