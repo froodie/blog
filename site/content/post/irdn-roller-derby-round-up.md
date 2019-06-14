@@ -1,10 +1,10 @@
 ---
 title: IRDN Roller Derby Round Up
-date: 2019-06-13T12:39:26.916Z
+date: 06/14/2019 11:00 AM
 ---
 ![undefined](/img/blog/irdn-june.png)
 
-It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games! There's something happening every single week! (Let's not even talk about the majesty of the Dublin Roller Derby/ Calgary/ CCR games on the 8th! - no, let's - I'll do a quick round up after posting the future games!)
+It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games! There's something happening every single week! (Let's not even talk about the majesty of the Dublin Roller Derby/ Calgary/ CCR games on the 8th which was absolutely amazing - we get a chance to watch top-tier derby right here in Ireland!
 
 # Upcoming Games
 
@@ -28,7 +28,7 @@ TICKETS:£6 at the door or [£5 online](http://www.belfastrollerderby.com/shop/t
 
 [Cork City Firebirds play Galway City Roller Derby and host a mixed scrimmage](https://www.facebook.com/events/456854865137741/)
 
-We are delighted to announce our next home bout against Galway City Roller Derby on June 22nd at 2pm, followed by a Mixed Scrimmage at 4pm.
+We are delighted to announce our next home bout against Galway City Roller Derby on June 22nd at 2pm, followed by a Mixed Scrimmage at 4pm. (As far as I'm aware there may still be some spots left!)
 
 [Link to the scrimmage registration](https://docs.google.com/forms/d/178SCkhJAELUVT46grVQrZjajLKuSLxuFPs2u94W2OgI/viewform?edit_requested=true&fbclid=IwAR0vQRnhtr5e48dRffUYzhMIzRruN5vDIN8z0ZSBCZq0rZvjt8-xvzibU1w)
 
@@ -59,4 +59,22 @@ Dublin Roller Derby B v [Wilkes Barre\/Scranton Roller Derby](https://www.facebo
 
 ![undefined](/img/blog/060719.jpg)
 
-[East Coast Cyclones are hosting a double header with visitors Rotterdam Roller Derby](https://www.facebook.com/events/2209958972648592/)
+[East Coast Cyclones are hosting a double header with visitors Rotterdam Roller Derby](https://www.facebook.com/events/2209958972648592/) - ECC will play Rotterdam B team and [Limerick Roller Derby](https://www.facebook.com/LimerickRollerDerby/) will play the A team.
+
+If anyone is interested in officiating or announcing at these games, I'm sure [ECC](https://www.facebook.com/eastcoastcyclones/) would be glad to hear from you!
+
+# Pride
+It's Pride!! Wahooo! It's been great to see all of your badges & posts. Let me know if your league is marching or planning other events!
+
+# Happy Birthday [Derry Roller Derby](https://www.facebook.com/derryrollerderby/)!!
+
+Ireland's newest Roller Derby League is one year old! Pop by and show them some love!!
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fderryrollerderby%2Fvideos%2F1218571748312113%2F&show_text=0&width=380" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+# Did I miss something?
+
+As always if your league or organisation has something coming up that I've not covered, please get in touch! You can leave a comment here, message the [Irish Roller Derby News](https://www.facebook.com/irishrollerderbynews/) page or email irishrollerderbynews@gmail.com
+
+This month's featured image is by the fab Al McAleese of [Irish Rollerderby Pictures](
+https://www.facebook.com/Irish-Roller-Derby-Pictures-2279090315711185/)
