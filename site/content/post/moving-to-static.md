@@ -20,7 +20,7 @@ We decided on using Hugo because it seemed to be quick & easy, so I signed up to
 
 Our first step was extracting my old WordPress blog posts - most of which had actually originally come from LiveJournal. There’s a handy WordPress plugin that exports your posts in Hugo-friendly format which we were able to install via command line from cPanel (remember, I couldn't actually get into the WordPress backend at this point).
 
-As many of the old LJ entries were private posts, our next job was moving all of the private posts to a separate directory. <code>grep</code> came in very handy at this point and we were left with genuine posts.
+As many of the old LJ entries were private posts, our next job was moving all of the private posts to a separate directory. 'grep' came in very handy at this point and we were left with genuine posts.
 
 I spent a lot of time here getting used to using the command line again, playing with the config files and learning how to actually use GitHub. I hadn’t realised before that Windows Subsystem for Linux was a thing either, so saying Hi! to Ubuntu again was nice too :)
 
