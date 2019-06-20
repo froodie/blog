@@ -17,21 +17,10 @@ lj_picture_keyword:
 post_views_count:
   - 359
 categories:
-
   - "The 'Zealand"
 
 ---
-<center>
-  </p> 
-  
- 
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    </center>In other news. I got smacked in the face by a prawn.<br /> While eating at a Japanese restaurant last night to celebrate Bula Bula&#8217;s Forty-Somethingth birthday, one of the entertaining chefs flipped a prawn and it smacked me wetly right between the eyes. Lucky me!
+In other news. I got smacked in the face by a prawn.<br /> While eating at a Japanese restaurant last night to celebrate Bula Bula&#8217;s Forty-Somethingth birthday, one of the entertaining chefs flipped a prawn and it smacked me wetly right between the eyes. Lucky me!
   </p>
   
   <p>
@@ -43,5 +32,5 @@ categories:
   </p>
   
   <p>
-    Myself and Top Ho-moDell will be heading to Rotorua early next week for a couple of days of sulphur and cheap bottles of wine. I&#8217;m also torn between going to the K-Road Karnival (sic) on Saturday (i should boycott it for spelling alone, but it would be fun) or going to a FOB Social with Mel from work. I should also be going to the cinema in about 5 minutes to see Bridget Jones, but am unsure if it&#8217;s worth it from <a class="lj-user" href="http://glitzfrau.livejournal.com/">glitzfrau</a>&#8216;s review. Still, a free pass is a free pass, and not to be sneezed at.
+    Myself and Top Ho-moDell will be heading to Rotorua early next week for a couple of days of sulphur and cheap bottles of wine. I&#8217;m also torn between going to the K-Road Karnival (sic) on Saturday (i should boycott it for spelling alone, but it would be fun) or going to a FOB Social with Mel from work. I should also be going to the cinema in about 5 minutes to see Bridget Jones, but am unsure if it&#8217;s worth it from <a class="lj-user" href="https://glitzfrau.livejournal.com/">glitzfrau</a>&#8216;s review. Still, a free pass is a free pass, and not to be sneezed at.
   </p>

@@ -4,13 +4,14 @@ categories:
  - 
  - 
  - 
+draft: true
 date:
 description:
 featured:
 featuredalt:
 featuredpath:
 linktitle:
-title:
+title: Test Post Draft
 type: post
 twitter:
   card: summary

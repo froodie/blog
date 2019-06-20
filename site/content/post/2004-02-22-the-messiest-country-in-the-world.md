@@ -11,7 +11,7 @@ lj_permalink:
 post_views_count:
   - 472
 categories:
-  - updates
+  - Updates
 tags:
 - Clonlara
 

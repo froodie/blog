@@ -13,7 +13,7 @@ lj_current_mood:
 post_views_count:
   - 681
 categories:
-  - updates
+  - Updates
   - Mental Health
 
 ---

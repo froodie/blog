@@ -23,12 +23,12 @@ Initial reactions over the weekend were that it was lovely, lovely, lovely to se
 
 Also, did you see the CAKE!!  (pic by colmmacc)
 
-![The Cake, projected](http://farm4.static.flickr.com/3160/3280294220_307bd500d5.jpg)
+![The Cake, projected](https://farm4.static.flickr.com/3160/3280294220_307bd500d5.jpg)
   
 
  _Edited: I didn&#8217;t bake the cake, just bought one with plain white icing and drew the stuff on top_
  
- All images by [Colmmacc](http://www.flickr.com/photos/colmmacc)
+ All images by [Colmmacc](https://www.flickr.com/photos/colmmacc)
 
- [1]: http://www.flickr.com/photos/colmmacc/3280266544/ "Froodie Icing the XCakeCD by colmmacc, on Flickr"
- [2]: http://www.flickr.com/photos/colmmacc/3280294220/ "XCakeCD by colmmacc, on Flickr"
+ [1]: https://www.flickr.com/photos/colmmacc/3280266544/ "Froodie Icing the XCakeCD by colmmacc, on Flickr"
+ [2]: https://www.flickr.com/photos/colmmacc/3280294220/ "XCakeCD by colmmacc, on Flickr"
