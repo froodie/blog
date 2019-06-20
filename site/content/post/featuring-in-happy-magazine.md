@@ -4,7 +4,7 @@ date: 20/06/2019
 ---
 ![Happy Magazine Featuring Me](/img/blog/sarah-and-sarah.jpg)
 
-Happy Magazine is a new title that you won't find in your local newsagents. It's a magazine that is for people who have cancer - before, during and after treatment. It's the brainchild of Holly Kennedy, herself a cancer survivor, and it's intended to be a positive support to people going through their treatment. The second issue is available now free of charge - for a list of places you can pick one up, got to Happy Magazine's Stockist list.
+Happy Magazine is a new title that you won't find in your local newsagents. It's a magazine that is for people who have cancer - before, during and after treatment. It's the brainchild of Holly Kennedy, herself a cancer survivor, and it's intended to be a positive support to people going through their treatment. The second issue is available now free of charge - for a list of places you can pick one up, got to [Happy Magazine's distribution list](https://www.happymagazine.ie/distribution-locations).
 
 ![Happy Magazine Featuring Me!](/img/blog/Second-issue-cover-photo.jpg)
 
@@ -16,11 +16,13 @@ Sarah also asked if I'd be OK with being photographed. I'd actually bought a new
 
 ## Interview
 
-The next part of the experience was being interviewed by Holly, who is utterly delightful. There is, I think, a bit of a kinship between people who have come through cancer treatment. Everyone's story is different, but there are a lot of shared experiences to bond over. Having that as a basis to the interview, was  a great ice-breaker. It was easy to just outline my experiences and why I think the programme was so beneficial. During the interview, Holly asked me if I'd be OK with my picture being the cover photo of the magazine. She gave me a little time to think, and at the end of the interview, I decided that I was comfortable enough to appear on the cover
+The next part of the experience was being interviewed by Holly, who is utterly delightful. There is, I think, a bit of a kinship between people who have come through cancer treatment. Everyone's story is different, but there are a lot of shared experiences to bond over. Having that as a basis to the interview, was  a great ice-breaker. It was easy to just outline my experiences and why I think the programme was so beneficial. During the interview, Holly asked me if I'd be OK with my picture being the cover photo of the magazine. She gave me a little time to think, and at the end of the interview, I decided that I was comfortable enough to appear on the cover.
 
 ## Aftermath
 
-The magazine came out at the end of May and it was really exciting to see it in print. It feels like a bit of an accomplishment, when really it was just a nice chat! It’s also been a bit of a wake-up call to get myself more active again. Unfortunately my plan for a personal trainer fell through, and a period of insomnia has meant I’m spending my mornings catching up on lost sleep instead of getting out and getting active. If anyone would be interested in being my workout buddy, please get in touch. I’m sorely in need of the motivation, and definitely in need of some more exercise!
+The magazine came out at the end of May and it was really exciting to see it in print. Holly and Sarah sent me copies so I am planning to send one to my Mam who's on holiday. It feels like a bit of an accomplishment, when really it was just a nice chat! If you’re curious, but can’t find a copy, it’s available on the [Happy Magazine blog](https://www.happymagazine.ie/2019/06/fit-for-life-sarah-ni-riain-on-the-beacon-hospitals-exercise-programme.html).
+
+It’s also been a bit of a wake-up call to get myself more active again. Unfortunately my plan for a personal trainer fell through, and a period of insomnia has meant I’m spending my mornings catching up on lost sleep instead of getting out and getting active. If anyone would be interested in being my workout buddy, please get in touch. I’m sorely in need of the motivation, and definitely in need of some more exercise!
 
 ## Why I’m Glad to be a Cover Girl
 
