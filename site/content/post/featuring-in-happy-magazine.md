@@ -1,9 +1,14 @@
 ---
 title: Featuring in Happy Magazine
-date: 20/06/2019
+date: 2019-06-20T11:20:09.240Z
+featured: sarah-and-sarah.jpg
+categories: 
+- Updates
+tags:
+- exercise
+- cancer
+- happy magazine
 ---
-![Happy Magazine Featuring Me](/img/blog/sarah-and-sarah.jpg)
-
 Happy Magazine is a new title that you won't find in your local newsagents. It's a magazine that is for people who have cancer - before, during and after treatment. It's the brainchild of Holly Kennedy, herself a cancer survivor, and it's intended to be a positive support to people going through their treatment. The second issue is available now free of charge - for a list of places you can pick one up, got to [Happy Magazine's distribution list](https://www.happymagazine.ie/distribution-locations).
 
 ![Happy Magazine Featuring Me!](/img/blog/Second-issue-cover-photo.jpg)
