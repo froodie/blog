@@ -3,8 +3,8 @@
   {{ hugo.Generator }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/google_news.html" . }}
+  {{ partial "twitter-card" . }}
 
   {{ if .Site.Params.highlightjs }}<link rel="stylesheet"
       href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/{{ .Site.Params.highlightjsTheme | default "default" }}.min.css">{{ end }}
@@ -22,5 +22,5 @@
       <link rel="stylesheet" href="{{ . | relURL }}">
     {{ end }}
   {{ end }}
-  {{ if .Site.Params.staticman.recaptcha.recaptcha }}<script src="https://www.google.com/recaptcha/api.js?render={{ .Site.Params.staticman.recaptcha.sitekey }}"></script>{{ end }}
+
 </head>

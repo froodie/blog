@@ -4,6 +4,7 @@
 {{ if ne .card "app" -}}
 <meta name="twitter:title" content="{{- .title -}}">
 <meta name="twitter:image" content="{{- .image -}}">
+<meta name="twitter:description" content="{{- .description -}}">
 {{ with .image_alt -}}<meta name="twitter:image:alt" content="{{- . -}}">{{- end }}
 {{- end }}
 {{ with .creator -}}<meta name="twitter:creator" content="{{- . -}}">{{- end }}

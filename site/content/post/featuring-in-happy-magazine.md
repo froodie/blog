@@ -2,6 +2,8 @@
 title: Featuring in Happy Magazine
 date: 2019-06-20T11:20:09.240Z
 featured: sarah-and-sarah.jpg
+description: Happy Magazine is a mag for people who have cancer. Today's post is about what featuring in the magazine was like!
+og_image: https://niria.in/img/blog/sarah-and-sarah.jpg
 categories: 
 - Updates
 - Cancer
@@ -14,8 +16,7 @@ twitter:
   site: '@froodie'
   title: Featuring in Happy Magazine
   description: Happy Magazine is a mag for people who have cancer. Today's post is about what that was like!
-  image: 
-    src: 'https://niria.in/img/blog/sarah-and-sarah.jpg'
+  image: https://niria.in/img/blog/sarah-and-sarah.jpg
 ---
 Happy Magazine is a new title that you won't find in your local newsagents. It's a magazine that is for people who have cancer - before, during and after treatment. It's the brainchild of Holly Kennedy, herself a cancer survivor, and it's intended to be a positive support to people going through their treatment. The second issue is available now free of charge - for a list of places you can pick one up, go to [Happy Magazine's distribution list](https://www.happymagazine.ie/distribution-locations).
 
