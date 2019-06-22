@@ -1,10 +1,11 @@
 ---
+draft: true
 author:
 categories:
  - 
  - 
  - 
-date:
+date: YYYY-MM-DDTHH:MM:SS+01:00
 description:
 featured:
 featuredalt:
