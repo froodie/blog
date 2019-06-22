@@ -9,6 +9,13 @@ tags:
 - roller derby
 - irish roller derby news
 - irdn
+twitter:
+  card: summary
+  site: '@froodie'
+  title: IRDN Roller Derby Round Up
+  description: It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games!
+  image: irdn-june.png
+
 ---
 It's the busiest month in Irish Roller Derby that I've ever seen. Just check out the upcoming games! There's something happening every single week! And that's not even talking about the majesty of the Dublin Roller Derby/ Calgary/ CCR games on the 8th which was absolutely amazing - we got a chance to watch top-tier derby right here in Ireland and it was utterly brilliant!
 
