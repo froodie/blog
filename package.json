@@ -35,7 +35,7 @@
     "gulp-postcss": "^6.1.1",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.6.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^0.9.1",
